@@ -24,6 +24,12 @@
    * Reviewer:
    * Translation link:
 
+1. 2020-02-11 [惨不惨？！昨天，我们科梅主任插管了，泌外胸外的同事ECMO了](https://mp.weixin.qq.com/s/swWd1ukRdPxrHAjVVJhA6Q) 海上柳叶刀
+
+   * Translator:
+   * Reviewer:
+   * Translation link:
+
 1. 2020-02-08 [雷神山医院建设“不完全”手册](https://ww3.sinaimg.cn/bmiddle/67626515ly1gboqqazuwcj20u0cgl1l5.jpg) 微博 @偶脚得偶还可以抢救一下
 
    * Alternative link: https://news.ifeng.com/c/7tu99UP48h8
