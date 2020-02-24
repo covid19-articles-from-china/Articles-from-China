@@ -2,7 +2,7 @@
 
 1. 2020-02-20 [白皮手册与绿皮手册：新冠肺炎诊断标准之变](https://mp.weixin.qq.com/s/vysNta8IU2wbRBv-c3aS4Q?from=groupmessage&scene=1&subscene=10000&clicktime=1582387639&enterid=1582387639) 冰点周刊
 
-   * Translator:
+   * Translator: Yan
    * Reviewer:
    * Translation link:
 
