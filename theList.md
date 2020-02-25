@@ -8,7 +8,7 @@
 
 1. 2020-02-20 [一个“美漂”湖北码农：我在美国被怀疑新冠疑似](https://m.huxiu.com/article/340567.html) 微信公众号：三明治
 
-   * Translator:
+   * Translator: Tian
    * Reviewer:
    * Translation link:
 
