@@ -30,10 +30,22 @@
    * Reviewer:
    * Translation link:
 
+1. 2020-02-08 [唐驳虎：疫情进入下半场，春运返程是硬仗](https://ishare.ifeng.com/c/s/v0044vQyyreLjPUwz--l0oVZweu--2XgtfGaHI5T9nLsJsigY__) 凤凰新闻
+
+   * Translator:
+   * Reviewer:
+   * Translation link:
+
 1. 2020-02-08 [雷神山医院建设“不完全”手册](https://ww3.sinaimg.cn/bmiddle/67626515ly1gboqqazuwcj20u0cgl1l5.jpg) 微博 @偶脚得偶还可以抢救一下
 
    * Alternative link: https://news.ifeng.com/c/7tu99UP48h8
    * Translator:
+   * Reviewer:
+   * Translation link:
+
+1. 2020-02-05 [抗击新冠：CT结果将纳入诊断标准](https://mp.weixin.qq.com/s/nmt0q-JPdKX8HHiU4Liw5A) 三联生活周刊
+
+   * Translator: Marie
    * Reviewer:
    * Translation link:
 
