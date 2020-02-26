@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # 救人救己! Help Translate COVID-19 Related Articles from China
 
 We have seen what our family and friends are going through. We have studiously followed every story, expert opinion, government decree, meme, and rumor shared on WeChat groups and Weibo. We have donated money, masks, time and effort. How else can we help?
