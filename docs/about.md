@@ -3,5 +3,4 @@ layout: default
 title: About
 permalink: /about/
 ---
-
-This is a site created for the totally awesome Dr. X.
+This site includes a collection of 2019 novel coronavirus (COVID-19, 2019-nCoV) related articles, including articles translated from Chinese.

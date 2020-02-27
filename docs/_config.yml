@@ -13,7 +13,6 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-name: COVID-19 Readings
 title: COVID-19 Readings
 description: >- # this means to ignore newlines until "baseurl:"
   A collection of 2019 novel coronavirus (COVID-19, 2019-nCoV) related articles,
@@ -25,7 +24,7 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
-permalink: /blog/:year/:month/:day/:title
+permalink: /articles/:year/:month/:day/:title
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
