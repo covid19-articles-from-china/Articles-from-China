@@ -17,7 +17,7 @@ title: COVID-19 Readings
 description: >- # this means to ignore newlines until "baseurl:"
   A collection of 2019 novel coronavirus (COVID-19, 2019-nCoV) related articles,
   including articles translated from Chinese.
-#twitter_username: jekyllrb
+google_analytics: "UA-159268430-1"
 
 # Build settings
 theme: jekyll-theme-cayman
