@@ -1,6 +1,7 @@
 ---
 title: 'An "American Drifter" Code Farmer from Hubei: Being A Suspected 2019-nCoV Case in The US'
 date: 2020-02-20
+translation_date: 2020-02-27
 categories: personal experience
 translator: TIAN Xiufang (COVID-19 Readings)
 ---
@@ -17,7 +18,7 @@ These past few days, sunlight has flooded the Bay Area. On the other side of Pac
 
 Like many "American Drifter" families, the other family members of Big J are in China. Dual-worker families would save up days for a big vacation every year to return to the home country or take long trips. This year, they rushed back to China before the Christmas holiday, spent a few days in their hometown of Hubei, then went sightseeing in Yunnan. There are so many mountains and lakes to visit in the homeland. As long as there is time, every time we come back, we would take the opportunity to go out and visit. During the week of sightseeing in Yunnan, Big J received messages from a friend, telling him that "pneumonia with unknown causes" appeared in Wuhan. But it's just an FYI, nothing special. The family returned to Jingzhou on January 4th. Everything seemed peaceful and calm.
 
-Taking advantage of this good opportunity, Big J traveled to several cities alone in the next few days, meeting with friends and sightseeing. As a "hard-core" ski enthusiast, Big J also made a special trip to Japan for skiing alone. Dedicated to skiing, Big J belongs to the group who know the dangers of skiing but still love it. He returned to Wuhan on the 13th and stayed there one night. On the 14th, he and his wife along with their two-year-old daughter set off on a flight back to the United States from Wuhan.
+Taking advantage of the time, Big J traveled to several cities alone in the next few days, meeting with friends and sightseeing. As a "hard-core" ski enthusiast, Big J also made a special trip to Japan for skiing alone. Dedicated to skiing, Big J belongs to the group who know the dangers of skiing but still love it. He returned to Wuhan on the 13th and stayed there one night. On the 14th, he and his wife along with their two-year-old daughter set off on a flight back to the United States from Wuhan.
 
 Everything went smoothly, and it was a perfect holiday.
 
