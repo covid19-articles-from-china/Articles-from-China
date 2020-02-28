@@ -2,12 +2,12 @@
 title: 'An "American Drifter" Code Farmer from Hubei: Being A Suspected nCoV Case in The US'
 date: 2020-02-20
 categories: personal experience
-translator: COVID-19 Readings
+translator: TIAN Xiufang (COVID-19 Readings)
 ---
 
 *The origianl article [一个"美漂"湖北码农：我在美国被怀疑新冠疑似](https://m.huxiu.com/article/340567.html) was from the WeChat Official Account: Sandwiches (ID: china30s), edited by author: Xi Da*
 
-*Translator: COVID-19 Readings*
+*Translator: TIAN Xiufang (COVID-19 Readings)*
 
 ---
 
