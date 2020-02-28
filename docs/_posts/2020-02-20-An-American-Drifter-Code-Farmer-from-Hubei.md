@@ -1,5 +1,5 @@
 ---
-title: 'An "American Drifter" Code Farmer from Hubei: Being A Suspected 2019-nCoV Case in The US'
+title: 'An "American Drifter" Code Farmer from Hubei: Being A Suspected COVID-19 Case in The US'
 date: 2020-02-20
 translation_date: 2020-02-27
 categories: personal experience
@@ -24,7 +24,7 @@ Everything went smoothly, and it was a perfect holiday.
 
 Until the fourth day of their return, when changes came in torrents.
 
-The US Centers for Disease Control and Prevention (CDC) issued a novel coronavirus (2019-nCoV) warning on Friday the 17th. On Monday, the 20th, Big J started to feel his uncomfortable in the throat." Generally, I get sick when I have a sore throat. I don't know what it is. I think it should be some kind of virus." On Tuesday, the 21st, "we read the news that the guy in Seattle was sick." Big J started to have cold and fever symptoms.
+The US Centers for Disease Control and Prevention (CDC) issued a novel coronavirus (Sars-CoV-2) warning on Friday the 17th. On Monday, the 20th, Big J started to feel his uncomfortable in the throat." Generally, I get sick when I have a sore throat. I don't know what it is. I think it should be some kind of virus." On Tuesday, the 21st, "we read the news that the guy in Seattle was sick." Big J started to have cold and fever symptoms.
 
 "I started to call the Urgent Care in my city from Tuesday. I said I had just returned from Wuhan and I had a cold and a fever. There might be a coronavirus infection. Can you check it?"
 
@@ -34,7 +34,7 @@ Family doctors are for non-emergency minor illnesses. Generally, they need to an
 
 ![Pharmacy shelf empty of masks](/assets/media/2020-02-20/american-drifter-01.jpg)
 
-"Looking at the first nCoV case in Seattle, and based on anecdotal information, our family was likely to have been on the same flight with that guy, because there is no direct flight from Wuhan to Seattle."
+"Looking at the first COVID-19 case in Seattle, and based on anecdotal information, our family was likely to have been on the same flight with that guy, because there is no direct flight from Wuhan to Seattle."
 
 Panic started to settle in, but Big J was still struggling to find an institution to give him a definitive answer.
 
@@ -50,7 +50,7 @@ It was only the beginning of Big J's worst headache.
 
 Some people on WeChat went from checking in to pressing for information, wondering what virus Big J was infected with. Because in the first week of their return, before the cold symptoms had appeared, Big J and family had a few meals with friends and their children." With the increase of cases in the news, everyone started to worry."
 
-Another bomb was also exploding. The department where Big J works sent a short e-mail to employees, saying that a colleague who had just returned from Wuhan was suspected of being infected by nCoV. It mentioned flu symptoms, but did not tell the employees that the colleague had self-quarantined for a few days, and also didn't say that the colleague had been tested and found to be infected the influenza A, nor did they mention that the nCoV test was still under way. As the e-mail spread, various internal company WeChat groups' discussion exploded. People speculated about the content of this ambiguous e-mail, and while the story was being circulated, it seemed to have acquired a faster mutation rate than the virus. "Within an hour, we saw different message screenshots in different WeChat groups, and some guys even started asking me if the person the WeChat groups were talking about was my husband." Big J's wife added.
+Another bomb was also exploding. The department where Big J works sent a short e-mail to employees, saying that a colleague who had just returned from Wuhan was suspected of being a COVID-19 case. It mentioned flu symptoms, but did not tell the employees that the colleague had self-quarantined for a few days, and also didn't say that the colleague had been tested and found to be infected the influenza A, nor did they mention that the Sars-CoV-2 test was still under way. As the e-mail spread, various internal company WeChat groups' discussion exploded. People speculated about the content of this ambiguous e-mail, and while the story was being circulated, it seemed to have acquired a faster mutation rate than the virus. "Within an hour, we saw different message screenshots in different WeChat groups, and some guys even started asking me if the person the WeChat groups were talking about was my husband." Big J's wife added.
 
 "It's so ridiculous, no one can tell me where to go for this test. I want to know what I was infected with, and I want to tell my friends as soon as possible, but I didn't expect the testing procedure to be so unclear and complicated." Big J needs an answer now more than ever.
 
@@ -73,7 +73,7 @@ Suddenly, as if the dew came, the dust floating in the air could finally adhere 
 
 As of early February, the CDC had tested 210 suspected samples and 12 cases had been confirmed. The medical system and emergency assistance system in the US are well developed, but still the pain cannot be replaced and cannot be quantified. We can only imagine the dark days experienced by these 200 some families.
 
-During this time, Big J's wife experienced multi-faceted information overload and emotional challenge. During her husband's quarantine, she took time off to take care of their child at home. "There was great pressure from public opinions, and there is no time and energy to worry about myself. I really would have broken down if Big J had been confirmed." The company where Big J's wife works is Gilead, the pharmaceutical company that makes Remdesivir, which has previously gone viral as a "special drug" for nCoV. When she saw her company CEO's statement "patients first", "I saw hope, but it was also the right thing to do as a businessman."
+During this time, Big J's wife experienced multi-faceted information overload and emotional challenge. During her husband's quarantine, she took time off to take care of their child at home. "There was great pressure from public opinions, and there is no time and energy to worry about myself. I really would have broken down if Big J had been confirmed." The company where Big J's wife works is Gilead, the pharmaceutical company that makes Remdesivir, which has previously gone viral as a "special drug" for COVID-19. When she saw her company CEO's statement "patients first", "I saw hope, but it was also the right thing to do as a businessman."
 
 Crisis and opportunity often seem to be printed on both sides of a card. After Gilead successfully developed a cure for hepatitis C a few years ago, it experienced Waterloo in the stock market. The reason is simple. The disease is cured and no one needs the medicine any more. At the same time, high-priced drugs have been criticized by society.
 
@@ -85,7 +85,7 @@ Big J's family left Hubei before the outbreak in China. The local police station
 
 The greatest risk is probably with the cousin of Big J's wife, a nurse at Wuhan Children's Hospital, who has started to collect nucleic acid specimens at the front line. She was breastfeeding before that. After the closure of Wuhan, public transportation was cut off, and the cousin rode a bike to work. Recently, the cousin has checked into a hotel next to the hospital. In order to reduce the risk of infecting her family, "I haven't gone home." Big J's wife sent a screenshot of her family WeChat group, and all of her families were praising her for being "great and brave".
 
-On February 5th, a lovely baby was born. Thirty hours later, the baby was confirmed to have been infected with nCoV, and it was the first suspected mother-to-child transmission. The hospital where the baby was born was the children's hospital where Big J's wife's cousin worked.
+On February 5th, a lovely baby was born. Thirty hours later, the baby was confirmed to have been infected with Sars-CoV-2, and it was the first suspected mother-to-child transmission. The hospital where the baby was born was the children's hospital where Big J's wife's cousin worked.
 
 At the end of our conversation, Big J's wife slowly breathed a sigh of relief, summing up the experience in two words: sadness and anger. During the previous phase of self-quarantine, suffering caused by the rumors allowed her to catch a glimpse of the hurt inflicted upon Hubei people outside of Hubei." I feel sad for them. I have felt the same, and what my family has experienced is really nothing compared to these people. They've been hurt ten thousand times more than us." In the second phase, after the quarantine, the feeling of pain didn't completely disappear." I realized that while I need to maintain my own internal sense of consistency and sense of justice, I also need to protect my family. I used to be overly optimistic, and now I realize I can't quite achieve that." 
 
