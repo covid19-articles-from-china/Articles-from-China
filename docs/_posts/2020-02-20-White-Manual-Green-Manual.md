@@ -9,7 +9,7 @@ translator: COVID-19 Readings
 
 *Author: YANG Hai, Editor: ZHANG Guo (Ice Point Weekly)*
 
-*Translator: COVID-19 Readings*
+*Translator: GAO Yan (COVID-19 Readings)*
 
 ---
 
