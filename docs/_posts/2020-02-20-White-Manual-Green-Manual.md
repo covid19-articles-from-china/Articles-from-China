@@ -96,7 +96,7 @@ The standard of the Green Manual also mentioned "being exposed to Wuhan Huanan S
   <figcaption>Green Manual</figcaption>
 </figure>
 
-Wuhan doctors Liu Yue, Jing Kun, and Li Xia all told the reporter that they had never seen the Green Manual. What they all believe was that **the "Eligibility Criteria" of the White Manual was too "harsh"** and not conducive to early detection and diagnosis.
+Wuhan doctors Liu Yue, Jing Kun, and Li Xia all told the reporter that they had never seen the Green Manual. What they all believe was that **the "Eligibility Criteria" of the White Manual was too "stringent"** and not conducive to early detection and diagnosis.
 
 The reporter noticed that the only difference between the White Manual and the Green Manual was the addition of "Eligibility Criteria". Regarding the version issue, the reporter inquired with the Wuhan Municipal Health Commission, but did not receive a response.
 
@@ -105,7 +105,7 @@ The reporter noticed that the only difference between the White Manual and the G
   <figcaption>Left: Green Manual index page, Right: White Manual index page</figcaption>
 </figure>
 
-**"According to these criteria,  we couldn't report anybody"**
+**"According to These Criteria,  We Couldn't Report Anybody"**
 
 After the hospital meeting on January 3, Jing Kun's ICU department immediately opened more than 10 quarantine beds for patients with pneumonia of unknown cause. As he recalled, the beds were fully occupied in less than 3 days since the first patient moved in. 
 
@@ -174,7 +174,7 @@ The Wuhan Municipal Health Commision mentioned in their January 11th report that
 
 It was slightly different from the NHC's "four early" principles which had been mentioned for several times. Here, the CDC in Wuhan replaced "early reporting" in the NHC version with "early diagnosis".
 
-**Several updates on national standards in response to the epidemic progress** 
+**Multiple Updates on National Standards in Response to The Epidemic Progress** 
 
 Unlike the 2003 SARS epidemic, this time, China quickly isolated the virus strain, completed genetic sequencing, and shared the sequence with the WHO for global joint research. This action was appreciated by the WHO. On January 8, the pathogen was tentatively identified as a novel coronavirus.
 
@@ -186,23 +186,23 @@ According to the expert, several days later, a Wuhan doctor called him. The doct
 
 The aforementioned three Wuhan doctors told the reporter that the "confirmed cases" criterion was indeed added, but it was based on the White Manual, not the Green Manual.
 
-The reporter found the following expression in a section of the "Diagnosis and Treatment of Pneumonia of Unknown Cause (Trial)", namely "Case Features", "Most of the treated cases had a history of exposure to Wuhan Huanan Seafood Market. Some cases demonstrated family clustering and most of these clustered cases had a history of exposure to this market."
+The reporter found the following expression in a section of the "Diagnosis and Treatment Plan for Pneumonia of Unknown Cause (Trial)", namely "Case Features", "Most of the treated cases had a history of exposure to Wuhan Huanan Seafood Market. Some cases demonstrated family clustering and most of these clustered cases had a history of exposure to this market."
 
 "We knew there was a small scale of clustered cases among the existing cases, but these people were all related to Huanan Seafood Market." An aforementioned expert said that the expert group drew the conclusion of "limited person-to-person transmission" from what they learned in Wuhan.
 
-On January 16, NHC issued their first edition of "Diagnosis and Treatment Plan of Pneumonia of Novel Coronavirus (Trial)". At this point, the implementation of Wuhan trial scheme has been stopped.
+On January 16, NHC issued their first edition of "Diagnosis and Treatment Plan for Pneumonia of Novel Coronavirus (Trial)". At this point, the implementation of Wuhan trial scheme has been stopped.
 
 On this day, the Wuhan Municipal Health Commission reported four new confirmed cases, after several days of "no added cases" in their report.
 
 In the first edition of NHC's plan, the definition of "observed cases" (later changed to "suspected cases"), "epidemiological history" referred to "Wuhan", not Huanan Seafood Market. And "Clinical manifestations" prescribed "fever" without a specific temperature standard.
 
-Since then, national standards have been revised several times as the epidemic progressed. Zhang Xiaochun, deputy director of the Department of Medical Imaging at Zhongnan Hospital of Wuhan University, proposed that false negatives could not be ruled out from nucleic acid testing , so he recommended CT imaging as a diagnostic method. Such opinions were adopted in subsequent standards.
+Since then, national standards have been revised several times as the epidemic progressed. Zhang Xiaochun, deputy director of the Department of Medical Imaging at Zhongnan Hospital of Wuhan University, proposed that false negatives could not be ruled out from nucleic acid testing, so he recommended CT imaging as a diagnostic method. Such opinions were adopted in subsequent standards.
 
 Since February 12, the standards in Hubei were further expanded. For the first time, "clinically diagnosed cases" were included in confirmed cases. A total of 14,840 new cases was added in a day, with 13,332 clinically diagnosed cases. Zeng Yixin, deputy director of the NHC, said that the goal of adding clinically diagnosed cases was to help patients be confirmed and quarantined earlier, giving them standard treatment and improving the curative ratio. He said, "Because of this project, the confirmed cases indeed increased, which truly reflected the situation in Wuhan."
 
 On February 19, the NHC issued the sixth edition of the diagnosis and treatment plan. In this latest version, the distinction between Hubei Province and other provinces has been eliminated. All patients are now differentiated into "suspected cases" and "confirmed cases".
 
-According to the report of the NHC on the morning of February 20, Wuhan added 615 new confirmed cases  throughout the day on February 19, and four other cities in Hubei added 13 new cases.But because nucleic acid tests were performed on "clinical diagnostic cases" from 10 cities and counties, cases with negative nucleic acid test results were subtracted from the original confirmed cases, a total of 279 cases were confirmed removed.Therefore, Hubei province announced 349 new confirmed cases. This is the first time in many days that new cases in Hubei have dropped to three digits. With deeper understanding of the situation and the revisions of national standards, the goal of " receiving all that should be received, and treating all that should be treated" is gradually within reach.
+According to the report of the NHC on the morning of February 20, Wuhan added 615 new confirmed cases throughout the day on February 19, and four other cities in Hubei added 13 new cases. But because nucleic acid tests were performed on "clinically diagnosed cases" from 10 cities and counties, cases with negative nucleic acid test results were removed from the original confirmed cases, with a total of 279 cases being confirmed removed. Therefore, Hubei province announced 349 new confirmed cases. This was the first time in many days that new cases in Hubei had dropped to three digits. With deeper understanding of the situation and the revisions of national standards, the goal of "receiving all that should be received, treating all that should be treated" became gradually within reach.
 
 (Reporter WANG Jiaxing contributed to this article.)
 
