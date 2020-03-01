@@ -22,4 +22,6 @@ a { color: #9400d3; text-decoration: none; }
 a:hover { text-decoration: underline; }
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { margin-top: 2rem; margin-bottom: 1rem; font-weight: normal; color: #9400d3; }
-.main-content img { max-width: 80%; display: block; margin-left: auto; margin-right: auto }
+.main-content figure { max-width: 80%; display: block; margin-left: auto; margin-right: auto; text-align: center; font-style: italic; font-size: 0.9rem }
+@media screen and (max-width: 42em) { .main-content figure { max-width: 100%; } }
+

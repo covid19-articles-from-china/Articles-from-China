@@ -13,13 +13,16 @@ translator: COVID-19 Readings
 
 ---
 
-![Pedestrian enjoying sunlight](/assets/media/2020-02-20/white-manual-green-manual-01.webp)
+<figure>
+  <img src="/assets/media/2020-02-20/white-manual-green-manual-01.webp" alt="pedestrian enjoying sunlight"/>
+  <figcaption>February 16, Wuhan, Hubei, a pedestrian enjoying the sunlight with open arms after snow</figcaption>
+</figure>
 
 On the last day of 2019, several medical specialists were sent to Wuhan by the National Health Commission of China (NHC). Nearly all of them had experienced the 2003 SARS epidemic and some of them had left Chinese people a deep impression in that event.
 
 What was waiting for them was a new infectious disease. After the noon of that day, Wuhan Municipal Health Commission issued their first report about the novel coronavirus pneumonia epidemic: local hospitals diagnosed 27 patients with viral pneumonia, and all of the patients had connections with Huanan Seafood Wholesale Market.
 
-This infectious disease was initially called "Pneumonia of Unknown Etiology (Unknown Cause)". Only until 8th January, its causal agent was identified as a novel coronavirus. Compared to the complete ignorance in beginning, people   started to gain gradually deeper understanding of the virus. 
+This infectious disease was initially called "Pneumonia of Unknown Cause". Only until 8th January, its causal agent was identified as a novel coronavirus. Compared to the complete ignorance in beginning, people   started to gain gradually deeper understanding of the virus. 
 
 On January 16, NHC issued the first version of the "National" Diagnosis and Treatment Plan, which articulated a clear diagnosis standard. Before that, Wuhan, as the origin region of the epidemic, had diagnosed and treated patients relying on the standards explored in the earlier stage.
 
@@ -35,7 +38,7 @@ Li Xia (pseudonym), director of the emergency department of another Class III ho
 
 "The hospital leader required us to convey this reporting standard only  face-to-face, by telephone, or WeChat Voice", Li Xia said.
 
-The "reporting standard" these doctors had referred to  was the "Pneumonia of Unknown Etiology Eligibility Criteria" released by Wuhan Municipal Health Commission. Cases that  did not meet these "Eligibility Criteria"  need not be reported.
+The "reporting standard" these doctors had referred to  was the "Pneumonia of Unknown Cause Eligibility Criteria" released by Wuhan Municipal Health Commission. Cases that  did not meet these "Eligibility Criteria"  need not be reported.
 
 A source provided the reporter with this "Eligibility Criteria". It stipulated that patients could only be included if they "have an epidemiological history and clinical manifestations."
 
@@ -61,7 +64,10 @@ As for "clinical manifestations", there are also four criteria:
 
 According to the "Eligibility Criteria", viral pneumonia patients, who cannot be diagnosed with a certain disease, need to **meet all four "clinical manifestations" criteria and then one of four "epidemiological history" criteria** before being included. After being included, patients need to be tested for other viral types of pneumonia such as influenza virus, adenovirus, mycoplasma, chlamydia pneumonia, and bacterial pneumonia, "cases with a clear diagnosis of other diseases" can then afterwards be excluded.
 
-![Pneumonia of Unknown Etiology Eligibility Criteria](/assets/media/2020-02-20/white-manual-green-manual-02.webp)
+<figure>
+  <img src="/assets/media/2020-02-20/white-manual-green-manual-02.webp" alt="eligibility criteria"/>
+  <figcaption>Pneumonia of Unknown Cause Eligibility Criteria</figcaption>
+</figure>
 
 On January 3, the second report from Wuhan Municipal Health Commission  announced, "After the epidemic outbreak, the State and Provincial Health Commission attached great importance to sending working groups and expert teams to Wuhan to guide the local epidemic response and  decision making. "
 
@@ -71,7 +77,7 @@ However, experts sent by NHC stated that **they did not formulate such "Eligibil
 
 This expert said that he later saw the white manual, and the "Eligibility Criteria" was part of it.
 
-A member of the second expert group provided reporters with a manual with a green cover, " Manual of Medical Treatment of Viral Pneumonia of Unknown Etiology", printed by "Wuhan Municipal Health Commission." The  manual contains "Viral Pneumonia of Unknown Cause Diagnosis and Treatment Plan (Trial)", "Requirements for Centralized Treatment of Viral Pneumonia of Unknown Cause", and nine documents related to the collection of pathogen diagnostic specimens, patient transfer, and autopsy.
+A member of the second expert group provided reporters with a manual with a green cover, "Manual of Medical Treatment of Viral Pneumonia of Unknown Cause", printed by "Wuhan Municipal Health Commission." The  manual contains "Viral Pneumonia of Unknown Cause Diagnosis and Treatment Plan (Trial)", "Requirements for Centralized Treatment of Viral Pneumonia of Unknown Cause", and nine documents related to the collection of pathogen diagnostic specimens, patient transfer, and autopsy.
 
 The expert said that white and green manuals had different diagnostic standards.
 
@@ -85,13 +91,19 @@ Pneumonia patients who met the above four criteria and couldn not be diagnosed a
 
 The standard of the Green Manual also mentioned "being exposed to Wuhan Huanan Seafood Wholesale Market or suspected patients". However, **this criterion was not included as a necessary condition**, but as a floating condition. If a case had met this criterion, then once it met three of the four previous criteria, it could be confirmed as "Pneumonia of Unknown Cause (case)".
 
-![Green Manual](/assets/media/2020-02-20/white-manual-green-manual-03.jpeg)
+<figure>
+  <img src="/assets/media/2020-02-20/white-manual-green-manual-03.jpeg" alt="green manual"/>
+  <figcaption>Green Manual</figcaption>
+</figure>
 
 Wuhan doctors Liu Yue, Jing Kun, and Li Xia all told the reporter that they had never seen the Green Manual. What they all believe was that **the "Eligibility Criteria" of the White Manual was too "harsh"** and not conducive to early detection and diagnosis.
 
 The reporter noticed that the only difference between the White Manual and the Green Manual was the addition of "Eligibility Criteria". Regarding the version issue, the reporter inquired with the Wuhan Municipal Health Commission, but did not receive a response.
 
-![Left: Green Manual index page, Right: White Manual index page](/assets/media/2020-02-20/white-manual-green-manual-04.webp)
+<figure>
+  <img src="/assets/media/2020-02-20/white-manual-green-manual-04.webp" alt="green manual white manual"/>
+  <figcaption>Left: Green Manual index page, Right: White Manual index page</figcaption>
+</figure>
 
 **"According to these criteria,  we couldn't report anybody"**
 
@@ -135,7 +147,10 @@ On January 15, 261 fever patients flooded into the hospital's emergency departme
 
 According to the Wuhan Municipal Health Commission, there were no new cases between 11th January and 15th January.
 
-![Wuhan Baibuting Residential Area](/assets/media/2020-02-20/white-manual-green-manual-05.webp)
+<figure>
+  <img src="/assets/media/2020-02-20/white-manual-green-manual-05.webp" alt="baibuting"/>
+  <figcaption>Wuhan Baibuting Residential Area</figcaption>
+</figure>
 
 The Analysis of the Epidemiological Characteristics of The Novel Coronavirus Pneumonia (COVID-2019) completed by NHC in February traced back all cases reported in Mainland China by February 11. Based on the onset date, 104 people were infected and 15 had died before December 31, 2019.
 
@@ -189,6 +204,10 @@ On February 19, the NHC issued the sixth edition of the diagnosis and treatment 
 
 According to the report of the NHC on the morning of February 20, Wuhan added 615 new confirmed cases  throughout the day on February 19, and four other cities in Hubei added 13 new cases.But because nucleic acid tests were performed on "clinical diagnostic cases" from 10 cities and counties, cases with negative nucleic acid test results were subtracted from the original confirmed cases, a total of 279 cases were confirmed removed.Therefore, Hubei province announced 349 new confirmed cases. This is the first time in many days that new cases in Hubei have dropped to three digits. With deeper understanding of the situation and the revisions of national standards, the goal of " receiving all that should be received, and treating all that should be treated" is gradually within reach.
 
-（Reporter WANG Jiaxing contributed to this article）
+(Reporter WANG Jiaxing contributed to this article.)
 
-![Ice Point Weekly](/assets/media/2020-02-20/white-manual-green-manual-06.webp)
+(The article was produced by China Youth Daily, first published in China Youth Daily official channels and included in the Woods Plan.)
+
+<figure>
+  <img src="/assets/media/2020-02-20/white-manual-green-manual-06.webp" alt="ice point weekly"/>
+</figure>
