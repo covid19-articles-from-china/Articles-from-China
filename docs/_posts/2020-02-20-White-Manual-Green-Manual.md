@@ -190,7 +190,7 @@ The reporter found the following expression in a section of the "Diagnosis and T
 
 "We knew there was a small scale of clustered cases among the existing cases, but these people were all related to Huanan Seafood Market." An aforementioned expert said that the expert group drew the conclusion of "limited person-to-person transmission" from what they learned in Wuhan.
 
-On January 16, NHC issued their first edition of "Diagnosis and Treatment Plan for Pneumonia of Novel Coronavirus (Trial)". At this point, the implementation of Wuhan trial scheme has been stopped.
+On January 16, NHC issued their first edition of "Diagnosis and Treatment Plan for Pneumonia of Novel Coronavirus (Trial)". At this point, the implementation of Wuhan trial scheme was discontinued.
 
 On this day, the Wuhan Municipal Health Commission reported four new confirmed cases, after several days of "no added cases" in their report.
 
