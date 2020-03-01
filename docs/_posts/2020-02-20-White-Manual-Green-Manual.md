@@ -211,3 +211,11 @@ According to the report of the NHC on the morning of February 20, Wuhan added 61
 <figure>
   <img src="/assets/media/2020-02-20/white-manual-green-manual-06.webp" alt="ice point weekly"/>
 </figure>
+
+---
+
+Related Articles:
+
+[Fighting COVID-19: CT Imaging Results To Be Included in Diagnostic Criteria (coming soon)](/articles/2020/02/05/Fighting-COVID-19) 2020-02-05
+
+[Those Outside of The Statistics: They Died from Common Pneumonia? (coming soon)](http://127.0.0.1:4000/articles/2020/02/02/Those-Outside-Of-The-Statistics) 2020-02-02
