@@ -26,4 +26,4 @@ Related Articles:
 
 [White Manual, Green Manual: Evolution of The COVID-19 Diagnostic Criteria](/articles/2020/02/20/White-Manual-Green-Manual) 2020-02-20
 
-[Fighting COVID-19: CT Imaging Results To Be Included in Diagnostic Criteria (coming soon)](/articles/2020/02/05/Fighting-COVID-19) 2020-02-05
+[Fighting COVID-19: CT Scans To Be Included in Diagnostic Criteria](/articles/2020/02/05/Fighting-COVID-19) 2020-02-05
