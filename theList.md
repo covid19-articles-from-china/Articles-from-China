@@ -1,5 +1,25 @@
 # List of Articles to Translate
 
+1. 2020-03-03 [忽视、欺骗、失职：浙江8人逃离意大利背后](https://mp.weixin.qq.com/s/wRriz4PCVNQuV9gaBz4llQ)
+
+   * Translator:
+   * Reviewer:
+
+1. 2020-03-01 [我担心湖北人接下来该怎么办？](https://mp.weixin.qq.com/s/mPP_XoHtpqXEFdFOHNOSCQ)
+
+   * Translator:
+   * Reviewer:
+
+1. 2020-02-27 [我在武汉街头入睡，请别对着我的被子浇水](https://www.toutiao.com/i6797968758301262347/)
+
+   * Translator:
+   * Reviewer:
+
+1. 2020-02-25 [“你笑起来真好看”丨记者原创水彩画](https://mp.weixin.qq.com/s/WjiSjtpj8OUAUceRxkgxvA)
+
+   * Translator:
+   * Reviewer:
+
 1. 2020-02-19 [武汉核酸检测AB面：患者急、医院忙，第三方机构“吃不饱”](https://www.360zhyx.com/home-research-index-rid-73196.shtml)
 
    * Translator:
