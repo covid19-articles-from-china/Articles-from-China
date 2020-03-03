@@ -14,9 +14,9 @@ translator: Marie Mao (COVID-19 Readings)
 
 ---
 
-After the COVID-19 testing kit shortage eased, nucleic acid testing, adopted as the main diagnostic criterion for COVID-19, again drew controversy. Some doctors who work in the front line of this outbreak found some patients tested negative in this test, but their condition continued to worsen, and their families also showed symptoms of infection. Besides nucleic acid testing, some experts had suggested that CT scan results should also be included into the testing protocols of COVID-19. Is this feasible?
+After the COVID-19 test kit shortage eased, nucleic acid testing, adopted as the main diagnostic criterion for COVID-19, again drew controversy. Some doctors who work on the front line of this outbreak found some patients tested negative in this test, but their condition continued to worsen, and their families also showed symptoms of infection. Besides nucleic acid testing, some experts had suggested that CT scans should also be included into the testing protocols of COVID-19. Is this feasible?
 
-The appeal from experts had already received responses from the decision makers. **The afternoon on February 5, National Health Commission of China released Diagnosis and Treatment Plan for Pneumonia of Novel Coronavirus (Trial Version 5), which stipulated that CT scan results could be included for clinically diagnosed cases of COVID-19 (only in Hubei province).**
+The appeal from experts had received a response from decision makers. **The afternoon on February 5, National Health Commission of China released Diagnosis and Treatment Plan for Pneumonia of Novel Coronavirus (Trial Version 5), which stipulated that CT scans could be included for clinically diagnosed cases of COVID-19 (only in Hubei province).**
 
 ---
 
@@ -73,7 +73,7 @@ Zhang Xiaochun messaged us on February 5. The newly released Diagnosis and Treat
 
 (Wang Hui and Wu Fang are pseudonyms.)
 
---
+---
 
 Related Articles:
 
