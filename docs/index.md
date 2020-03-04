@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 # 救人救己! Help Translate COVID-19 Related Articles from China
 
