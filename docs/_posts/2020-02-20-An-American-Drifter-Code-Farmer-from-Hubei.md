@@ -4,6 +4,8 @@ date: 2020-02-20
 translation_date: 2020-02-27
 categories: personal experience
 translator: TIAN Xiufang (COVID-19 Readings)
+image: /assets/media/2020-02-20/american-drifter-03.jpg
+blurb: '“A lot of times, I took the food upstairs to eat, and after I was done I went downstairs, I didn’t know where to wash the dishes. Whether the door handle needed to be wiped? Going downstairs with shoes on, should I wipe the soles of my shoes? (Despite) having been wearing gloves for days, I didn’t dare to touch things at home. My kid would look at me and call daddy, and I dare not hold her.”'
 ---
 
 *The origianl article [一个"美漂"湖北码农：我在美国被怀疑新冠疑似](https://m.huxiu.com/article/340567.html) was from the WeChat Official Account: Sandwiches (ID: china30s), edited by author: Xi Da*
@@ -40,7 +42,7 @@ Panic started to settle in, but Big J was still struggling to find an institutio
 
 Being responsible to others, Big J notified his company of his symptoms, and it happened that another colleague was also sick and went to another hospital for examination.
 
-"The reason why I was finally checked was because the hospital my colleague went notified the San Francisco Department of Public Health." During this period, Big J also tried to call the CDC many times." Their phone number is very difficult to find, but I finally got in touch with them. An operator read me a long introduction of the novel coronavirus and told us that the disease is highly contagious, so be careful!"
+"The reason why I was finally checked was because the hospital my colleague went notified the San Francisco Department of Public Health." During this period, Big J also tried to call the CDC many times. "Their phone number is very difficult to find, but I finally got in touch with them. An operator read me a long introduction of the novel coronavirus and told us that the disease is highly contagious, so be careful!"
 
 Not sure to laugh or cry, Big J asked if there was any place to test for it?
 
@@ -52,11 +54,11 @@ Some people on WeChat went from checking in to pressing for information, wonderi
 
 Another bomb was also exploding. The department where Big J works sent a short e-mail to employees, saying that a colleague who had just returned from Wuhan was suspected of being a COVID-19 case. It mentioned flu symptoms, but did not tell the employees that the colleague had self-quarantined for a few days, and also didn't say that the colleague had been tested and found to be infected the influenza A, nor did they mention that the Sars-CoV-2 test was still under way. As the e-mail spread, various internal company WeChat groups' discussion exploded. People speculated about the content of this ambiguous e-mail, and while the story was being circulated, it seemed to have acquired a faster mutation rate than the virus. "Within an hour, we saw different message screenshots in different WeChat groups, and some guys even started asking me if the person the WeChat groups were talking about was my husband." Big J's wife added.
 
-"It's so ridiculous, no one can tell me where to go for this test. I want to know what I was infected with, and I want to tell my friends as soon as possible, but I didn't expect the testing procedure to be so unclear and complicated." Big J needs an answer now more than ever.
+"It's so ridiculous, no one can tell me where to go for this test. I want to know what I was infected with, and I want to tell my friends as soon as possible, but I didn't expect the testing procedure to be so unclear and complicated." Big J needed an answer now more than ever.
 
-Feeling anxious and having to continue to be quarantined at home, while there is still a two-year old child at home, the concern of Big J and his wife gradually grew and swelled into panic and helplessness. "A lot of times, I took the food upstairs to eat, and after I was done I went downstairs, I didn't know where to wash the dishes. Whether the door handle needed to be wiped? Going downstairs with shoes on, should I wipe the soles of my shoes? (Despite) having been wearing gloves for days, I didn't dare to touch things at home. My kid would look at me and call daddy, and I dare not hold her." 
+Feeling anxious and having to continue to be quarantined at home, while there was still a two-year old child at home, the concern of Big J and his wife gradually grew and swelled into panic and helplessness. "A lot of times, I took the food upstairs to eat, and after I was done I went downstairs, I didn't know where to wash the dishes. Whether the door handle needed to be wiped? Going downstairs with shoes on, should I wipe the soles of my shoes? (Despite) having been wearing gloves for days, I didn't dare to touch things at home. My kid would look at me and call daddy, and I dare not hold her."
 
-Offline anxiety continued to ferment online. Big J recalled, "In this crisis, many aspects of human nature have been magnified. From my experience, I began to know some people just love gossiping, discussing the virus constantly, spreading all kinds of information, valid or not. Many people couldn't stand it and just quietly left the chat group. There were so many rumors, and so many screenshots, some of which were coded and some were not. It literally was within a few minutes that I would see my own screenshots from different channels." 
+Offline anxiety continued to ferment online. Big J recalled, "In this crisis, many aspects of human nature have been magnified. From my experience, I began to know some people just love gossiping, discussing the virus constantly, spreading all kinds of information, valid or not. Many people couldn't stand it and just quietly left the chat group. There were so many rumors, and so many screenshots, some of which were coded and some were not. It literally was within a few minutes that I would see my own screenshots from different channels."
 
 A virus has opened the Pandora box of human nature. When we jump out of our WeChat group, the picture is not much different. Countless news stories record the power of this disastrous shock wave. It can even be said that every Chinese family has been affected, only to varying degrees.
 
