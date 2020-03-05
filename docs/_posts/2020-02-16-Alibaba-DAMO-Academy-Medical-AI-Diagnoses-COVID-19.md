@@ -15,7 +15,7 @@ translator: COVID-19 Readings
 
 <figure>
   <img src="/assets/media/2020-02-16/ali-damo-ai-01.png" alt="AI recognizing COVID-19 CT image"/>
-  <figcaption>AI automatically detecting COVID-19 chest CT scans</figcaption>
+  <figcaption>AI automatically recognizing COVID-19 from chest CT scans</figcaption>
 </figure>
 
 ---
