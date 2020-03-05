@@ -10,6 +10,11 @@
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/assets/favicon/site.webmanifest">
+
     {% if site.google_analytics %}
       <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
       <script>
@@ -23,10 +28,15 @@
 
   <body>
     <header class="site-header" role="banner">
-      <h1 class="site-title">{{ site.title }}</h1>
+      <h1 class="site-title"><a href="/">{{ site.title }}</a></h1>
+
+      <nav class="site-nav">
+        <!-- https://www.albionresearch.com/misc/obfuscator.php -->
+        <a class="site-link" href="mail&#116;o&#58;&#37;6D&#97;g%6&#55;i&#37;65%6E%&#54;A202%30%4&#48;gma&#105;l&#46;%&#54;3om" target="_blank" alt="contact us">contact</a>
+      </nav>
     </header>
 
-    <main id="content" class="main-content" role="main">
+    <main class="main-content" role="main">
       {{ content }}
     </main>
 
