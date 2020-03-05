@@ -5,7 +5,7 @@ categories: ['general']
 translator: COVID-19 Readings
 ---
 
-*[阿里达摩院医疗 AI：落地 26 家医院，诊断 3 万多新冠肺炎病例](https://www.infoq.cn/article/7o6EObPl73a4W07bJa5c)*
+*<a href="https://www.infoq.cn/article/7o6EObPl73a4W07bJa5c" target="_blank">阿里达摩院医疗 AI：落地 26 家医院，诊断 3 万多新冠肺炎病例</a>*
 
 *Author: Ali Cloud*
 
