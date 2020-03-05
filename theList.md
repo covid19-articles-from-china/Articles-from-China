@@ -22,7 +22,7 @@
 
 1. 2020-02-23 [如何看待阿里达摩院研发的新冠肺炎 CT 影像 AI 诊断技术，平均识别不到 20 秒准确率达 96%？](https://www.zhihu.com/question/372335557)
 
-   * Translator:
+   * Translator: Marie
    * Reviewer:
 
 1. 2020-02-19 [武汉核酸检测AB面：患者急、医院忙，第三方机构“吃不饱”](https://www.360zhyx.com/home-research-index-rid-73196.shtml)
