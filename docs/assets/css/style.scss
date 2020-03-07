@@ -3,35 +3,65 @@
 
 @import "{{ site.theme }}";
 
+/* PALETTE
+via http://colormind.io/bootstrap/
+*/
+
+$white: #F4F7F3;
+$pale: #7C95AF;
+$brand: #9400D3;
+$dark: #BA3D57;
+$black: #201521;
+
+$primary: #A31BD6;
+$info: $black;
+$success: $pale;
+$warning: #e37240;
+$error: $dark;
+
 /* UNIVERSAL */
+
+html, body {
+  background-color: $white;
+  color: $black;
+}
 
 * {
   font-family: "Roboto", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+a { 
+  color: $brand; 
+  text-decoration: none; 
+
+  &:hover { 
+    text-decoration: underline; 
+  }
+}
+
 /* HEADER */
 
 .site-header { 
-  color: #fff;
-  background-color: #b251fc;
+  color: $white;
+  background-color: $primary;
   background:
     radial-gradient(circle at 0% 50%, 
-      rgba(96, 16, 48, 0) 9px,
-      #7c0eac 10px,
-      rgba(96, 16, 48, 0) 11px) 0px 10px,
+      rgba($white, 0) 9px,
+      $brand 10px,
+      rgba($white, 0) 11px) 0px 10px,
     radial-gradient(at 100% 100%,
-      rgba(96, 16, 48, 0) 9px,
-      #7c0eac 10px,
-      rgba(96, 16, 48, 0) 11px),
-     #b251fc;
+      rgba($white, 0) 9px,
+      $brand 10px,
+      rgba($white, 0) 11px),
+     $primary;
   background-size: 20px 20px;
   display: flex;
   align-items: center;
   align-content: center;
-  justify-content: space-bet;
+  justify-content: space-between;
   height: 3.75rem;
   line-height: 3.75rem;
-  box-shadow: 0 0 15px black;
+  box-shadow: 0 0 15px $black;
   position: fixed;
   top: 0;
   left: 0;
@@ -48,10 +78,10 @@
   font-size: 1.75rem;
   flex: 1 1 100%;
   padding: 0 1rem;
-  text-shadow: 0 0 3px black, 0 0 5px black;
+  text-shadow: 0 0 3px $primary, 0 0 5px $primary;
 
   a {
-    color: white;
+    color: $white;
   }
 }
 
@@ -63,13 +93,13 @@
 .site-link {
   display: inline-block;
   padding: 0 1rem;
-  color: white;
+  color: $white;
   text-transform: uppercase;
   transition: background 0.2s linear;
-  text-shadow: 0 0 5px #b251fc;
+  text-shadow: 0 0 5px $primary;
   
   &:hover {
-    background-color: rgba(255, 255, 255, 0.25)
+    background-color: rgba($white, 0.25)
   }
 }
 
@@ -80,23 +110,39 @@
   }
 }
 
-/* UNSORTED */
+/* MAIN */
 
 .main-content {
   margin-top: 3.75rem;
 }
-
-a { color: #9400d3; text-decoration: none; }
-a:hover { text-decoration: underline; }
 
 .main-content h1, 
 .main-content h2, 
 .main-content h3, 
 .main-content h4, 
 .main-content h5, 
-.main-content h6 { margin-top: 2rem; margin-bottom: 1rem; font-weight: normal; color: #9400d3; }
-.main-content figure { max-width: 80%; display: block; margin-left: auto; margin-right: auto; text-align: center; font-style: italic; font-size: 0.9rem }
-@media screen and (max-width: 42em) { .main-content figure { max-width: 100%; } }
+.main-content h6 { 
+  margin-top: 2rem; 
+  margin-bottom: 1rem; 
+  font-weight: normal; 
+  color: $brand; 
+}
+
+.main-content figure { 
+  max-width: 80%; 
+  display: block; 
+  margin-left: auto; 
+  margin-right: auto; 
+  text-align: center; 
+  font-style: italic; 
+  font-size: 0.875rem 
+}
+
+@media screen and (max-width: 42em) { 
+  .main-content figure { 
+    max-width: 100%; 
+  } 
+}
 
 /* FOOTER */
 
@@ -122,15 +168,15 @@ a:hover { text-decoration: underline; }
 
 .mission-title {
   text-transform: uppercase;
-  color: black;
+  color: $black;
   margin-bottom: 0.5rem;
   text-align: center;
   letter-spacing: 1px;
 }
 
 .mission-statement {
-  border-top: 2px solid #9400d3;
-  border-bottom: 2px solid #9400d3;
+  border-top: 2px solid $brand;
+  border-bottom: 2px solid $brand;
   padding: 1rem 0.25rem;
 }
 
@@ -176,7 +222,7 @@ a:hover { text-decoration: underline; }
     background-position: 50% 50%;
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: #9400d3;
+    background-color: $brand;
 
     &:hover {
       background-blend-mode: luminosity;
@@ -194,7 +240,7 @@ a:hover { text-decoration: underline; }
     font-size: 1.25rem;
   
     a {
-      color: black;
+      color: $black;
     }
   }
 
