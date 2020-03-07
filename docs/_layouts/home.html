@@ -12,32 +12,39 @@ layout: default
   </article>
   
   <section class="post-list">
-    <h2>Newest Posts</h2>
+    <h2>Translations by Post Date</h2>
   
     {% for post in site.posts %}
       {% assign post_url = post.external_url | default: post.url %}
   
       <article class="post">
         {% if post.image %}
-          <a class="post-image" href="{{ post_url }}" target="_blank">
-            <img src="{{ post.image }}" alt="Image for '{{ post.title }}'"/>
-          </a>
+          <a class="post-image" href="{{ post_url }}" target="_blank" style="background-image: url({{ post.image }});"></a>
         {% endif %}
-  
-        <header class="post-header">
-          <h1 class="post-title"><a href="{{ post_url }}" target="_blank">{{ post.title }}</a></h1>
-        </header>
-  
-        {% if post.blurb %}
-          <div class="">
-            <p>{{ post.blurb }}</p>
-          </div>
-        {% endif %}
-  
-        <footer class="post-meta">
-          <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
-          <a class="post-more" href="{{ post_url }}" target="_blank">Read more →</a>
-        </footer>
+
+        <div class="post-content">
+          <header class="post-header">
+            <h1 class="post-title"><a href="{{ post_url }}" target="_blank">{{ post.title }}</a></h1>
+          </header>
+    
+          <footer class="post-meta">
+            <span class="post-tag">🗓{{ post.date | date: "%Y-%m-%d" }}</span>
+
+            {% if post.categories %}
+              {% for cat in post.categories %}
+                <span class="post-tag">🏷{{ cat }}</span>
+              {% endfor %}
+            {% endif %}
+          </footer>
+    
+          {% if post.blurb %}
+            <div class="post-blurb">{{ post.blurb }}</div>
+          {% endif %}
+    
+          <footer class="post-links">
+            <a class="post-more" href="{{ post_url }}" target="_blank">Read more →</a>
+          </footer>
+        </div>
       </article>
     {% endfor %}
   </section>

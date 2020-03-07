@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
+/* UNIVERSAL */
+
+* {
+  font-family: "Roboto", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
 /* HEADER */
 
 .site-header { 
@@ -153,19 +159,27 @@ a:hover { text-decoration: underline; }
 
   .post {
     margin-bottom: 3rem;
+    display: flex;
   }
 
   .post-image {
     display: block;
+    align-items: center;
     margin-bottom: 0.25rem;
     text-decoration: none;
     overflow: hidden;
     border-radius: 0.25rem;
+    flex: 0 0 auto;
+    margin-right: 0.5rem;
+    width: 8rem;
+    height: 8rem;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #9400d3;
 
-    img {
-      display: block;
-      width: 100%;
-      height: auto;
+    &:hover {
+      background-blend-mode: luminosity;
     }
   }
 
@@ -177,7 +191,7 @@ a:hover { text-decoration: underline; }
     display: block;
     margin: 0;
     padding: 0;
-    font-size: 1.25em;
+    font-size: 1.25rem;
   
     a {
       color: black;
@@ -186,12 +200,29 @@ a:hover { text-decoration: underline; }
 
   .post-meta {
     display: block;
+    font-size: 0.875rem;
+    line-height: 1.5rem;
+    margin-bottom: 0.5rem;
   }
 
-  .post-date {
-    color: gray;
-    font-style: italic;
-    margin-right: 1rem;
+  .post-tag {
+    margin-right: 0.5rem;
+  }
+
+  .post-blurb {
+    margin-bottom: 0.5rem;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    hyphens: auto;
+    text-align: justify;
+  }
+}
+
+@media screen and (max-width: 64em) { 
+  .post-list {
+    & > h2 {
+      font-size: 1.7rem;
+    }
   }
 }
 

@@ -2,7 +2,7 @@
 title: 'An "American Drifter" Code Farmer from Hubei: Being A Suspected COVID-19 Case in The US'
 date: 2020-02-20
 translation_date: 2020-02-27
-categories: personal experience
+categories: ['personal experience']
 translator: TIAN Xiufang (COVID-19 Readings)
 image: /assets/media/2020-02-20/american-drifter-03.jpg
 blurb: '“A lot of times, I took the food upstairs to eat, and after I was done I went downstairs, I didn’t know where to wash the dishes. Whether the door handle needed to be wiped? Going downstairs with shoes on, should I wipe the soles of my shoes? (Despite) having been wearing gloves for days, I didn’t dare to touch things at home. My kid would look at me and call daddy, and I dare not hold her.”'
@@ -68,7 +68,6 @@ Finally, Big J received the result the following Tuesday: negative.
 
 ![Test Room](/assets/media/2020-02-20/american-drifter-02.jpg)
 
-
 ![Being Tested](/assets/media/2020-02-20/american-drifter-03.jpg)
 
 Suddenly, as if the dew came, the dust floating in the air could finally adhere to the moisture brought by the dew and fell back to the ground.
@@ -89,7 +88,6 @@ The greatest risk is probably with the cousin of Big J's wife, a nurse at Wuhan 
 
 On February 5th, a lovely baby was born. Thirty hours later, the baby was confirmed to have been infected with Sars-CoV-2, and it was the first suspected mother-to-child transmission. The hospital where the baby was born was the children's hospital where Big J's wife's cousin worked.
 
-At the end of our conversation, Big J's wife slowly breathed a sigh of relief, summing up the experience in two words: sadness and anger. During the previous phase of self-quarantine, suffering caused by the rumors allowed her to catch a glimpse of the hurt inflicted upon Hubei people outside of Hubei." I feel sad for them. I have felt the same, and what my family has experienced is really nothing compared to these people. They've been hurt ten thousand times more than us." In the second phase, after the quarantine, the feeling of pain didn't completely disappear." I realized that while I need to maintain my own internal sense of consistency and sense of justice, I also need to protect my family. I used to be overly optimistic, and now I realize I can't quite achieve that." 
+At the end of our conversation, Big J's wife slowly breathed a sigh of relief, summing up the experience in two words: sadness and anger. During the previous phase of self-quarantine, suffering caused by the rumors allowed her to catch a glimpse of the hurt inflicted upon Hubei people outside of Hubei." I feel sad for them. I have felt the same, and what my family has experienced is really nothing compared to these people. They've been hurt ten thousand times more than us." In the second phase, after the quarantine, the feeling of pain didn't completely disappear." I realized that while I need to maintain my own internal sense of consistency and sense of justice, I also need to protect my family. I used to be overly optimistic, and now I realize I can't quite achieve that."
 
 This disaster disrupted not just people's normal life, many people are no longer who they used to be, and many things cannot be simply returned to the past.
-
