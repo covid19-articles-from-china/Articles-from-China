@@ -109,7 +109,7 @@ The reporter noticed that the only difference between the White Manual and the G
 
 **"According to These Criteria,  We Couldn't Report Anybody"**
 
-After the hospital meeting on January 3, Jing Kun's ICU department immediately opened more than 10 quarantine beds for patients with pneumonia of unknown cause. As he recalled, the beds were fully occupied in less than 3 days since the first patient moved in. 
+After the hospital meeting on January 3, Jing Kun's ICU department immediately opened more than 10 isolation beds for patients with pneumonia of unknown cause. As he recalled, the beds were fully occupied in less than 3 days since the first patient moved in. 
 
 The hospital where Jing Kun worked has formulated an "Intra-Hospital Report, Diagnosis and Treatment Process for Suspected Cases with Pneumonia of Unknown Cause". This report didn't  include having contact with Huanan Seafood Market as a necessary criterion for reporting within the hospital. 
 
@@ -164,7 +164,7 @@ On January 23, Wuhan identified the first batch of designated hospitals for the 
 
 Wang Guangfa, a member of the second expert group sent by NHC and director of the Department of Respiratory Medicine of the First Hospital of Peking University, arrived in Wuhan on January 8. He was later informed that the incidence of pneumonia in a local hospital in December 2019 increased by 17 % compared with the same period in previous years. While he worked in Wuhan, he contracted COVID-19.
 
-Before the emergency ward managed by Liu Yue was requisitioned as a pneumonia patient quarantine ward, medical staffs did not receive any risk warning. "At that time, we wore ordinary surgical masks as routine respiratory protection".
+Before the emergency ward managed by Liu Yue was requisitioned as a pneumonia patient isolation ward, medical staffs did not receive any risk warning. "At that time, we wore ordinary surgical masks as routine respiratory protection".
 
 "I knew about the pneumonia at that time, but there were no confirmed COVID-19 cases in my hospital. Accoding to the official data, the number of patients had not increased. Also, the authority said that there was no obvious person-to-person transmission, so I didn't take it seriously." Liu Yue told reporters. "Considering that my emergency department was like this, not to mention how careless other departments were for they were even farther away from infectious diseases".
 
@@ -172,7 +172,7 @@ On January 20, a high-level expert group of NHC led by Zhong Nanshan held their 
 
 In this outbreak, Liu Yue was also one of the infected doctors. He recalled that the only possibility of his infection was that he accepeted and treated a pneumonia patient in his ward on January 6th. He was not informed of any danger at that time. Later, 16 beds he managed were  at one time occupied by 4 families, and  that's when he clearly realized that "this disease was transmitted from person to person".
 
-The Wuhan Municipal Health Commision mentioned in their January 11th report that "early detection, early diagnosis, early quarantine and early treatment should be achieved. All medical experts and resources should be unified and utilized to treat patients".
+The Wuhan Municipal Health Commision mentioned in their January 11th report that "early detection, early diagnosis, early isolation and early treatment should be achieved. All medical experts and resources should be unified and utilized to treat patients".
 
 It was slightly different from the NHC's "four early" principles which had been mentioned for several times. Here, the CDC in Wuhan replaced "early reporting" in the NHC version with "early diagnosis".
 
@@ -200,7 +200,7 @@ In the first edition of NHC's plan, the definition of "observed cases" (later ch
 
 Since then, national standards have been revised several times as the epidemic progressed. Zhang Xiaochun, deputy director of the Department of Medical Imaging at Zhongnan Hospital of Wuhan University, proposed that false negatives could not be ruled out from nucleic acid testing, so he recommended CT imaging as a diagnostic method. Such opinions were adopted in subsequent standards.
 
-Since February 12, the standards in Hubei were further expanded. For the first time, "clinically diagnosed cases" were included in confirmed cases. A total of 14,840 new cases was added in a day, with 13,332 clinically diagnosed cases. Zeng Yixin, deputy director of the NHC, said that the goal of adding clinically diagnosed cases was to help patients be confirmed and quarantined earlier, giving them standard treatment and improving the curative ratio. He said, "Because of this project, the confirmed cases indeed increased, which truly reflected the situation in Wuhan."
+Since February 12, the standards in Hubei were further expanded. For the first time, "clinically diagnosed cases" were included in confirmed cases. A total of 14,840 new cases was added in a day, with 13,332 clinically diagnosed cases. Zeng Yixin, deputy director of the NHC, said that the goal of adding clinically diagnosed cases was to help patients be confirmed and isolated earlier, giving them standard treatment and improving the curative ratio. He said, "Because of this project, the confirmed cases indeed increased, which truly reflected the situation in Wuhan."
 
 On February 19, the NHC issued the sixth edition of the diagnosis and treatment plan. In this latest version, the distinction between Hubei Province and other provinces has been eliminated. All patients are now differentiated into "suspected cases" and "confirmed cases".
 
