@@ -272,7 +272,14 @@ a {
   }
 }
 
-/* COLUMNS */
+/* COLUMNS 
+
+To restore, structure the home page thus:
+<div class="columns">
+  <article class="summary">{{ SIDEBAR STUFF }}</article>
+  <section class="post-list">{{ POSTS }}</section>
+</div>
+*/
 
 .columns {
   display: flex;

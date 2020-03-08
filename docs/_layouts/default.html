@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ site.title }}</title>
+    <title>{{ page.title }} | {{ site.title }}</title>
     
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -44,7 +44,7 @@
     <footer class="site-footer">
       <div class="site-footer-inner">
         {% if site.github.is_project_page %}
-          <p class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
+          <div><a href="{{ site.github.repository_url }}" target="_blank">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}" target="_blank">{{ site.github.owner_name }}</a>.</div>
         {% endif %}
       </div>
     </footer>
