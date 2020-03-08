@@ -13,32 +13,35 @@ layout: default
     {% assign post_url = post.external_url | default: post.url %}
 
     <article class="post">
-      {% if post.image %}
-        <a class="post-image" href="{{ post_url }}" target="_blank" style="background-image: url({{ post.image }});"></a>
-      {% endif %}
+      <header class="post-header">
+        <h1 class="post-title"><a href="{{ post_url }}" target="_blank">{{ post.title }}</a></h1>
+      </header>
+      
+      <footer class="post-meta">
+        <span class="post-tag">🗓{{ post.date | date: "%Y-%m-%d" }}</span>
 
-      <div class="post-content">
-        <header class="post-header">
-          <h1 class="post-title"><a href="{{ post_url }}" target="_blank">{{ post.title }}</a></h1>
-        </header>
-  
-        <footer class="post-meta">
-          <span class="post-tag">🗓{{ post.date | date: "%Y-%m-%d" }}</span>
-
-          {% if post.categories %}
-            {% for cat in post.categories %}
-              <span class="post-tag">🏷{{ cat }}</span>
-            {% endfor %}
-          {% endif %}
-        </footer>
-  
-        {% if post.blurb %}
-          <div class="post-blurb">{{ post.blurb }}</div>
+        {% if post.categories %}
+          {% for cat in post.categories %}
+            <span class="post-tag">🏷{{ cat }}</span>
+          {% endfor %}
         {% endif %}
-  
-        <footer class="post-links">
-          <a class="post-more" href="{{ post_url }}" target="_blank">Read more →</a>
-        </footer>
+      </footer>
+
+      <div class="post-flex">
+        {% if post.image %}
+          <a class="post-image" href="{{ post_url }}" target="_blank" style="background-image: url({{ post.image }});"></a>
+        {% endif %}
+
+        <div class="post-content">
+    
+          {% if post.blurb %}
+            <div class="post-blurb">{{ post.blurb }}</div>
+          {% endif %}
+    
+          <footer class="post-links">
+            <a class="post-more" href="{{ post_url }}" target="_blank">Read more →</a>
+          </footer>
+        </div>
       </div>
     </article>
   {% endfor %}
