@@ -63,7 +63,7 @@ Take my hospital as an example, 800 COVID-19 beds. If three CT scans are perform
 
 What's most critical is the diagnosis. Clinical matters are important. Radiologists are definitely not done just by casually watching the film. An imaging report directly affects clinical diagnosis and treatment, every single word can have a big impact. The amount of effort involved goes beyond outsiders' imagination!
 
-In addition, COVID-19 is a "new disease". The lung images of many mild patients are atypical. For some patients with underlying lung diseases (such as tuberculosis, chronic branch, and COPD), the different diseases have overlapping manifestations, increasing the difficulty of the diagnosis. Generally speaking, there are more than 300 images in a set of CT scans for a COVID-19 patient. Even for senior experts, the time required for reading and diagnosing is at least 10-15 minutes. Most of these are repetitive mechanical labor, which is both time and effort consuming.
+In addition, COVID-19 is a "new disease". The lung images of many mild patients are atypical. For some patients with underlying lung diseases (such as tuberculosis, chronic branch, and COPD), the different diseases have overlapping manifestations, increasing the difficulty of the diagnosis. Generally speaking, there are more than 300 images in a set of CT scans for a COVID-19 patient. Even for senior experts, the time required for reading and diagnosing is at least 10-15 minutes. Most of these are repetitive mechanical labor, which is both effort and time consuming.
 
 At present, in response to the high demand for CT scans, there are two main approaches to solution in clinical practice:
 
