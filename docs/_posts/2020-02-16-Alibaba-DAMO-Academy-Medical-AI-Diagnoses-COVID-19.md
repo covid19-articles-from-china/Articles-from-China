@@ -3,6 +3,7 @@ title: 'Alibaba DAMO Academy Medical AI: Deployed in 26 Hospitals, Diagnosed ove
 date: 2020-02-16
 categories: ['general']
 translator: COVID-19 Readings
+image: assets/media/2020-02-16/ali-damo-ai-01.png
 ---
 
 *<a href="https://www.infoq.cn/article/7o6EObPl73a4W07bJa5c" target="_blank">阿里达摩院医疗 AI：落地 26 家医院，诊断 3 万多新冠肺炎病例</a>*

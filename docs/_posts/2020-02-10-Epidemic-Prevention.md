@@ -4,6 +4,8 @@ date: 2020-02-10
 translation_date: 2020-02-28
 categories: [personal experience, joke]
 translator: COVID-19 Readings
+image: assets/media/2020-02-10/epidemic-prevention-00.jpeg
+blurb: Company cafeteria. Eating with the feel of taking an exam.
 ---
 
 *[防疫，防疫，防着防着，怎么就笑出猪叫了呢？](https://linksee.net/tt/MTk1MjI=)*
