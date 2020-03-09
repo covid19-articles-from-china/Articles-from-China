@@ -24,6 +24,7 @@ $error: $dark;
 html, body {
   background-color: $white;
   color: $black;
+  font-weight: 300;
 }
 
 * {
@@ -105,7 +106,7 @@ a {
 
 @media screen and (max-width: 42em) { 
   .site-title {
-    font-size: 1rem;
+    font-size: 1.25rem;
     line-height: 1.25rem;
   }
 }
@@ -162,8 +163,8 @@ a {
 /* HOME */
 
 .home-mission {
-  max-width: 32rem;
-  margin: 2rem auto 4rem !important;
+  max-width: 36rem;
+  margin: 1rem auto 3rem !important;
 }
 
 .mission-title {
@@ -177,7 +178,7 @@ a {
 .mission-statement {
   border-top: 2px solid $brand;
   border-bottom: 2px solid $brand;
-  padding: 1rem 0.25rem;
+  padding: 0.75rem 0.25rem 0;
 }
 
 .summary {
@@ -211,14 +212,15 @@ a {
   .post-image {
     display: block;
     align-items: center;
+    margin-top: 0.5rem;
     margin-bottom: 0.25rem;
     text-decoration: none;
     overflow: hidden;
     border-radius: 0.25rem;
     flex: 0 0 auto;
     margin-right: 0.5rem;
-    width: 8rem;
-    height: 8rem;
+    width: 10rem;
+    height: 10rem;
     background-position: 50% 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -238,6 +240,7 @@ a {
     margin: 0;
     padding: 0;
     font-size: 1.25rem;
+    font-weight: 400;
   
     a {
       color: $black;

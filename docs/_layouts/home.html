@@ -2,13 +2,10 @@
 layout: default
 ---
 <aside class="home-mission">
-  <div class="mission-title">Mission</div>
   <div class="mission-statement">{{ content }}</div>
 </aside>
 
 <section class="post-list">
-  <h2>Translations by Post Date</h2>
-
   {% for post in site.posts %}
     {% assign post_url = post.external_url | default: post.url %}
 

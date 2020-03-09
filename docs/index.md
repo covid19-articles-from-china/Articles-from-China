@@ -2,8 +2,7 @@
 title: Translations
 layout: home
 ---
-COVID-19 is out. Let's help! Let's show the world what the Chinese have learned fighting COVID-19, how everyday folks have lived through this.
 
-We need people that are fluent in both Chinese and English to translate COVID-19 related articles. It's okay if you haven't done much translation before. We are not looking for the perfect translation. What's more important right now is to get the information out.
+This site includes a collection of COVID-19 related articles translated from Chinese by unpaid volunteers. We are not professional translators. We are compelled to undertake this project because we believe the information here can be useful for people around the world.
 
-Please email <a href="mail&#116;o&#58;&#37;6D&#97;g%6&#55;i&#37;65%6E%&#54;A202%30%4&#48;gma&#105;l&#46;%&#54;3om" target="_blank" alt="contact us">Maggie</a> if you can help with the translation or review. If you cannot personally help with the translation, please help by sharing this site!
+Please <a href="mail&#116;o&#58;&#37;6D&#97;g%6&#55;i&#37;65%6E%&#54;A202%30%4&#48;gma&#105;l&#46;%&#54;3om" target="_blank" alt="contact us">email us</a> if you can help with the translation or review.
