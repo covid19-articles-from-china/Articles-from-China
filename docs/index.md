@@ -1,5 +1,4 @@
 ---
-title: Translations
 layout: home
 ---
 
