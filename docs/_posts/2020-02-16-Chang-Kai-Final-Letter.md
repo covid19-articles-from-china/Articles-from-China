@@ -4,4 +4,5 @@ date: 2020-02-16
 categories: ['personal experience']
 external_url: https://www.reddit.com/r/China_Flu/comments/f535md/a_family_of_four_in_wuhan_all_passed_away_due_to/
 image: assets/media/2020-02-16/changkai-01.png
+blurb: At Chinese New Year‘s eve, I cancelled dinner reservation at a fancy hotel according to public policies. I cooked a dinner at home for my wife and our parents, we all had a great time.
 ---

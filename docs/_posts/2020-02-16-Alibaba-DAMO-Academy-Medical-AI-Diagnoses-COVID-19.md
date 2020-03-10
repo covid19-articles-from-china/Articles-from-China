@@ -4,6 +4,7 @@ date: 2020-02-16
 categories: ['general']
 translator: COVID-19 Readings
 image: assets/media/2020-02-16/ali-damo-ai-01.png
+blurb: Recently, Damo Institute and Alibaba Cloud have developed a new set of AI diagnostic technology for the clinical diagnosis of COVID-19. AI can accurately interpret the CT scans of suspected cases of COVID-19 within 20 seconds, and the accuracy of the results has reached 96%, greatly improving diagnostic efficiency. Xiaotangshan (Hospital), Zhengzhou, Henan, has introduced this algorithm to aid clinical diagnosis.
 ---
 
 *<a href="https://www.infoq.cn/article/7o6EObPl73a4W07bJa5c" target="_blank">阿里达摩院医疗 AI：落地 26 家医院，诊断 3 万多新冠肺炎病例</a>*
@@ -14,10 +15,14 @@ image: assets/media/2020-02-16/ali-damo-ai-01.png
 
 ---
 
+Recently, Damo Institute and Alibaba Cloud have developed a new set of AI diagnostic technology for the clinical diagnosis of COVID-19. AI can accurately interpret the CT scans of suspected cases of COVID-19 within 20 seconds, and the accuracy of the results has reached 96%, greatly improving diagnostic efficiency. Xiaotangshan (Hospital), Zhengzhou, Henan, has introduced this algorithm to aid clinical diagnosis.
+
 <figure>
   <img src="/assets/media/2020-02-16/ali-damo-ai-01.png" alt="AI recognizing COVID-19 CT image"/>
   <figcaption>AI automatically recognizing COVID-19 from chest CT scans</figcaption>
 </figure>
+
+Full translation coming soon.
 
 ---
 
