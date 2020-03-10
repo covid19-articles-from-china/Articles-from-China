@@ -2,7 +2,9 @@
 title: 'White Manual, Green Manual: Evolution of The COVID-19 Diagnostic Criteria'
 date: 2020-02-20
 categories: investigation
-translator: COVID-19 Readings
+translator: GAO Yan
+blurb: '"Their clinical manifestations were too unique. There was no doubt that they contracted the disease", Jing Kun insisted. He did not refer to the "Eligibility Criteria", rather he reported all these suspected cases to the medical affairs office and the hospital infectious disease office.'
+image: assets/media/2020-02-20/white-manual-green-manual-01.webp
 ---
 
 *[白皮手册与绿皮手册：新冠肺炎诊断标准之变](https://mp.weixin.qq.com/s/vysNta8IU2wbRBv-c3aS4Q)*

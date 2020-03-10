@@ -3,6 +3,7 @@ title: 'Those Outside of The Statistics: They Died from Common Pneumonia? (comin
 date: 2020-02-02
 categories: investigation
 translator: Anonymous
+image: assets/media/2020-02-02/those-outside-of-statistics-01.jpg
 ---
 
 *[统计数字之外的人：他们死于“普通肺炎”？](https://club.6parkbbs.com/bolun/index.php?app=forum&act=threadview&tid=15627817)*

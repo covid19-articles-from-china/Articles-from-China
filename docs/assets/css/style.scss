@@ -3,25 +3,330 @@
 
 @import "{{ site.theme }}";
 
-.meta { }
+/* PALETTE
+via http://colormind.io/bootstrap/
+*/
 
-.btn { display: inline-block; margin-bottom: 1rem; color: rgba(255, 255, 255, 0.7); background-color: rgba(255, 255, 255, 0.08); border-color: rgba(255, 255, 255, 0.2); border-style: solid; border-width: 1px; border-radius: 0.3rem; transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
-.btn:hover { color: rgba(255, 255, 255, 0.8); text-decoration: none; background-color: rgba(255, 255, 255, 0.2); border-color: rgba(255, 255, 255, 0.3); }
-.btn + .btn { margin-left: 1rem; }
-@media screen and (min-width: 64em) { .btn { padding: 0.5rem 0.75rem; } }
-@media screen and (min-width: 42em) and (max-width: 64em) { .btn { padding: 0.4rem 0.6rem; font-size: 0.9rem; } }
-@media screen and (max-width: 42em) { .btn { padding: 0.4rem; font-size: 0.9rem; }
-  .btn + .btn { margin-top: 1rem; margin-left: 0; } }
+$white: #F4F7F3;
+$pale: #7C95AF;
+$brand: #9400D3;
+$dark: #BA3D57;
+$black: #201521;
 
-.page-header { color: #fff; text-align: center; background-color: #ab3dff; background-image: linear-gradient(120deg, #1e1a32, #ab3dff); }
-@media screen and (min-width: 64em) { .page-header { padding: 1rem 2rem; } }
-@media screen and (min-width: 42em) and (max-width: 64em) { .page-header { padding: 1rem 2rem; } }
-@media screen and (max-width: 42em) { .page-header { padding: 2rem 1rem; } }
+$primary: #A31BD6;
+$info: $black;
+$success: $pale;
+$warning: #e37240;
+$error: $dark;
 
-a { color: #9400d3; text-decoration: none; }
-a:hover { text-decoration: underline; }
+/* UNIVERSAL */
 
-.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { margin-top: 2rem; margin-bottom: 1rem; font-weight: normal; color: #9400d3; }
-.main-content figure { max-width: 80%; display: block; margin-left: auto; margin-right: auto; text-align: center; font-style: italic; font-size: 0.9rem }
-@media screen and (max-width: 42em) { .main-content figure { max-width: 100%; } }
+html, body {
+  background-color: $white;
+  color: $black;
+  font-weight: 300;
+}
 
+* {
+  font-family: "Roboto", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a { 
+  color: $brand; 
+  text-decoration: none; 
+
+  &:hover { 
+    text-decoration: underline; 
+  }
+}
+
+/* HEADER */
+
+.site-header { 
+  color: $white;
+  background-color: $primary;
+  background:
+    radial-gradient(circle at 0% 50%, 
+      rgba($white, 0) 9px,
+      $brand 10px,
+      rgba($white, 0) 11px) 0px 10px,
+    radial-gradient(at 100% 100%,
+      rgba($white, 0) 9px,
+      $brand 10px,
+      rgba($white, 0) 11px),
+     $primary;
+  background-size: 20px 20px;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: space-between;
+  height: 3.75rem;
+  line-height: 3.75rem;
+  box-shadow: 0 0 15px $black;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  overflow: hidden;
+
+  a:hover {
+    text-decoration: none;
+  }
+}
+
+.site-title {
+  margin: 0;
+  font-size: 1.75rem;
+  flex: 1 1 100%;
+  padding: 0 1rem;
+  text-shadow: 0 0 3px $primary, 0 0 5px $primary;
+
+  a {
+    color: $white;
+  }
+}
+
+.site-nav {
+  margin-left: 1rem;
+  flex: 0 0 auto;
+}
+
+.site-link {
+  display: inline-block;
+  padding: 0 1rem;
+  color: $white;
+  text-transform: uppercase;
+  transition: background 0.2s linear;
+  text-shadow: 0 0 5px $primary;
+  
+  &:hover {
+    background-color: rgba($white, 0.25)
+  }
+}
+
+@media screen and (max-width: 42em) { 
+  .site-title {
+    font-size: 1.25rem;
+    line-height: 1.25rem;
+  }
+}
+
+/* MAIN */
+
+.main-content {
+  margin-top: 3.75rem;
+}
+
+.main-content h1, 
+.main-content h2, 
+.main-content h3, 
+.main-content h4, 
+.main-content h5, 
+.main-content h6 { 
+  margin-top: 2rem; 
+  margin-bottom: 1rem; 
+  font-weight: normal; 
+  color: $brand; 
+}
+
+.main-content figure { 
+  max-width: 80%; 
+  display: block; 
+  margin-left: auto; 
+  margin-right: auto; 
+  text-align: center; 
+  font-style: italic; 
+  font-size: 0.875rem 
+}
+
+@media screen and (max-width: 42em) { 
+  .main-content figure { 
+    max-width: 100%; 
+  } 
+}
+
+/* FOOTER */
+
+.site-footer {
+  display: block;
+  padding: 1rem 0;
+  background-color: silver;
+  text-align: center;
+  font-size: 0.875rem;
+}
+
+.site-footer-inner {
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+/* HOME */
+
+.home-mission {
+  max-width: 36rem;
+  margin: 1rem auto 3rem !important;
+}
+
+.mission-title {
+  text-transform: uppercase;
+  color: $black;
+  margin-bottom: 0.5rem;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+.mission-statement {
+  border-top: 2px solid $brand;
+  border-bottom: 2px solid $brand;
+  padding: 0.75rem 0.25rem 0;
+}
+
+.summary {
+  h1 {
+    font-size: 1.25rem;
+    line-height: 2rem;
+  }
+
+  p {
+    font-size: 0.875rem;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    hyphens: auto;
+    text-align: justify;
+  }
+}
+
+/* POST LIST */
+
+.post-list {
+  & > h2 {
+    line-height: 4rem;
+    font-size: 2rem;
+  }
+
+  .post {
+    margin-bottom: 3rem;
+    display: flex;
+  }
+
+  .post-image {
+    display: block;
+    align-items: center;
+    text-decoration: none;
+    overflow: hidden;
+    border-radius: 0.25rem;
+    flex: 0 0 auto;
+    margin-right: 1rem;
+    width: 33%;
+    max-width: 25rem;
+    padding-top: 33%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: $brand;
+
+    &:hover {
+      background-blend-mode: luminosity;
+    }
+  }
+
+  .post-header {
+    display: block;
+  }
+  
+  .post-title {
+    display: block;
+    margin: 0;
+    padding: 0;
+    font-size: 1.25rem;
+    font-weight: 400;
+  
+    a {
+      color: $black;
+    }
+  }
+
+  .post-meta {
+    display: block;
+    font-size: 0.875rem;
+    line-height: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .post-tag {
+    margin-right: 0.5rem;
+  }
+
+  .post-blurb {
+    margin-bottom: 0.5rem;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    hyphens: auto;
+    text-align: justify;
+  }
+}
+
+@media screen and (max-width: 64em) { 
+  .post-list {
+    & > h2 {
+      font-size: 1.7rem;
+    }
+  }
+}
+
+@media screen and (max-width: 42em) { 
+  .post-list {
+    .post {
+      flex-direction: column;
+    }
+
+    .post-image {
+      width: 100%;
+      max-width: 100%;
+      padding-top: 50%;
+      margin-right: 0;
+      margin-bottom: 1rem;
+    }
+  }
+}
+
+/* COLUMNS 
+
+To restore, structure the home page thus:
+<div class="columns">
+  <article class="summary">{ SIDEBAR STUFF }</article>
+  <section class="post-list">{ POSTS }</section>
+</div>
+*/
+
+.columns {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: stretch;
+  justify-content: space-between;
+
+  .post-list {
+    flex: 1 1 auto;
+    margin-right: 2rem;
+  }
+
+  .summary {
+    flex: 0 0 auto;
+    width: 33%;
+    min-width: 12rem;
+  }
+}
+
+@media screen and (max-width: 42em) { 
+  .columns {
+    display: block;
+
+    .post-list {
+      margin-top: 3rem;
+    }
+
+    .summary {
+      width: auto;
+    }
+  }
+}

@@ -1,7 +1,25 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ site.title }}</title>
+    {% if page.title %}
+      <title>{{ page.title }} | {{ site.title }}</title>
+    {% else %}
+      <title>{{ site.title }}</title>
+    {% endif %}
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,700;1,300&display=swap" rel="stylesheet">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/assets/favicon/site.webmanifest">
+
     {% if site.google_analytics %}
       <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
       <script>
@@ -11,32 +29,28 @@
         gtag('config', '{{ site.google_analytics }}');
       </script>
     {% endif %}
-    <meta charset="UTF-8">
-
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
+
   <body>
-    <header class="page-header" role="banner">
-      <h1 class="project-name">COVID-19 Readings from China</h1>
-      <div>
-        <a class="btn" href="/">Home</a>
-        <a class="btn" href="/articles">Articles</a>
-        <a class="btn" href="/about">About</a>
-      </div>
+    <header class="site-header" role="banner">
+      <h1 class="site-title"><a href="/">{{ site.title }}</a></h1>
+
+      <nav class="site-nav">
+        <!-- https://www.albionresearch.com/misc/obfuscator.php -->
+        <a class="site-link" href="mail&#116;o&#58;&#37;6D&#97;g%6&#55;i&#37;65%6E%&#54;A202%30%4&#48;gma&#105;l&#46;%&#54;3om" target="_blank" alt="contact us">contact</a>
+      </nav>
     </header>
 
-    <main id="content" class="main-content" role="main">
-
+    <main class="main-content" role="main">
       {{ content }}
-
-      <footer class="site-footer">
-        {% if site.github.is_project_page %}
-          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-        {% endif %}
-      </footer>
     </main>
+
+    <footer class="site-footer">
+      <div class="site-footer-inner">
+        {% if site.github.is_project_page %}
+          <div><img src='/assets/favicon/favicon-32x32.png' style="vertical-align:middle; padding:5px"><a href="{{ site.github.repository_url }}" target="_blank">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}" target="_blank">{{ site.github.owner_name }}</a>.</div>
+        {% endif %}
+      </div>
+    </footer>
   </body>
 </html>

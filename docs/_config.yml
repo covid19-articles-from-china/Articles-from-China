@@ -13,10 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: COVID-19 Readings
-description: >- # this means to ignore newlines until "baseurl:"
-  A collection of 2019 novel coronavirus (COVID-19, 2019-nCoV) related articles,
-  including articles translated from Chinese.
+
+title: COVID-19 Readings from China
+description: >-
+  This site includes a collection of COVID-19 related articles translated from Chinese 
+  by unpaid volunteers. Most of us are not professional translators. We are compelled 
+  to undertake this project because we believe the information here can be useful for 
+  people around the world.
 google_analytics: "UA-159268430-1"
 
 # Build settings
@@ -25,6 +28,7 @@ plugins:
   - jekyll-feed
 
 permalink: /articles/:year/:month/:day/:title
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
