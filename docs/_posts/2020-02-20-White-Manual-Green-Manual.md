@@ -220,4 +220,4 @@ Related Articles:
 
 [Fighting COVID-19: CT Scans To Be Included in Diagnostic Criteria](/articles/2020/02/05/Fighting-COVID-19) 2020-02-05
 
-[Those Outside of The Statistics: They Died from Common Pneumonia? (coming soon)](/articles/2020/02/02/Those-Outside-Of-The-Statistics) 2020-02-02
+[Those Outside of The Statistics: They Died from Common Pneumonia?](/articles/2020/02/02/Those-Outside-Of-The-Statistics) 2020-02-02

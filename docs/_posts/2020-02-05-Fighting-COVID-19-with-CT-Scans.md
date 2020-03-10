@@ -81,4 +81,4 @@ Related Articles:
 
 [White Manual, Green Manual: Evolution of The COVID-19 Diagnostic Criteria](/articles/2020/02/20/White-Manual-Green-Manual) 2020-02-20
 
-[Those Outside of The Statistics: They Died from Common Pneumonia? (coming soon)](/articles/2020/02/02/Those-Outside-Of-The-Statistics) 2020-02-02
+[Those Outside of The Statistics: They Died from Common Pneumonia?](/articles/2020/02/02/Those-Outside-Of-The-Statistics) 2020-02-02

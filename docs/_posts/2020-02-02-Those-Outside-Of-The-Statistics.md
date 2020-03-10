@@ -1,9 +1,11 @@
 ---
-title: 'Those Outside of The Statistics: They Died from Common Pneumonia? (coming soon)'
+title: 'Those Outside of The Statistics: They Died from Common Pneumonia?'
 date: 2020-02-02
 categories: investigation
 translator: Anonymous
+external_url: https://www.reddit.com/r/China_Flu/comments/fem5h5/deleted_article_from_caijing_people_outside_the/
 image: assets/media/2020-02-02/those-outside-of-statistics-01.jpg
+blurb: "Liu Mei's family never seen her mother in law after she was taken by an ambulance. All they got was an invoice of cremation, it said, cause of death is: pneumonia."
 ---
 
 *[统计数字之外的人：他们死于“普通肺炎”？](https://club.6parkbbs.com/bolun/index.php?app=forum&act=threadview&tid=15627817)*
@@ -19,7 +21,7 @@ image: assets/media/2020-02-02/those-outside-of-statistics-01.jpg
   <figcaption>January 31, fever patients lining up for IV at a hospital in Wuchang, Wuhan</figcaption>
 </figure>
 
-Full translation coming soon.
+Full translation <a href="https://www.reddit.com/r/China_Flu/comments/fem5h5/deleted_article_from_caijing_people_outside_the/" target="_blank">here</a>.
 
 ---
 
