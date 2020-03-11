@@ -258,6 +258,10 @@ Sun Chen, who has been waiting for the nucleic acid test strip with her father, 
 
 ---
 
+*The original article was removed from its source and all major news portals in China the next day it was published. The good news was, four days after its publication, on February 5, the authorities released a new version of the diagnostic criteria for COVID-19, which included a “clinically diagnosed case” category for patients diagnosed with CT scans instead of nucleic acid tests in Hubei province. At the same time, fangcang (field) hospitals converted from large public spaces such as gyms and conference centers started to accept mild condition patients, just as the article had suggested at the end. -- COVID-19 Readings*
+
+---
+
 Related Articles:
 
 [White Manual, Green Manual: Evolution of The COVID-19 Diagnostic Criteria](/articles/2020/02/20/White-Manual-Green-Manual) 2020-02-20
