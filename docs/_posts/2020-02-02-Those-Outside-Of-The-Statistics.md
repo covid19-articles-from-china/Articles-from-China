@@ -30,7 +30,7 @@ Liu Mei's family never saw her mother-in-law again after she was taken by an amb
 
 The old lady passed away so suddenly, there was no decent undertaking of her body, no farewell from the family. Until now her ashes were still at the funeral home.
 
-The story of Liu Mei's family is not alone. From the investigations of Caijing reporters, though the number of patients in fever clinics of designated hospitals was slightly lower than what it was before the lock down of the city on January 23, even with expanding designated hospitals for the third time, the difficulty of finding a hospital bed is still not completely resolved. **While the numbers of confirmed diagnosed and suspected cases keep rising, there are still many people who are outside of the statistics, their lives hanging by a thread.**
+The story of Liu Mei's family is not alone. From the investigations of Caijing reporters, though the number of patients in fever clinics of designated hospitals is slightly lower than what it was before the lock down of the city on January 23, even with expanding designated hospitals for the third time, the difficulty of finding a hospital bed is still not completely resolved. **While the numbers of confirmed diagnosed and suspected cases keep rising, there are still many people who are outside of the statistics, their lives hanging by a thread.**
 
 A department director from a designated hospital told Caijing, these past two days there were about 120 fever patients in the fever clinic each day, 80 of them had lung infections, but only five of them could eventually be admitted in the hospital.
 
@@ -63,7 +63,7 @@ There was a sentence on the Twitter page of the WHO: **Remember, these are not n
 
 Sun Chen said, January 26, his father suddenly coughed up blood during self isolation at home. He immediately took his father to Tongji Hospital. The test result showed that his lungs were moderately to severely infected. Unfortunately this CT report did not help his father to be hospitalized, because they didn't go through the complete diagnostic process.
 
-The hospital told Sun Chen's father to isolate at home and take medicines, but Sun Chen realized, the cases around me were all severe, I have to get my father a hospital bed.
+The hospital told Sun Chen's father to isolate at home and take medicines, but Sun Chen realized, the cases around me were all severe, I had to get my father a hospital bed.
 
 What does a hospital bed mean? Without it, Li Kaimeng from Han Yang had to watch his father breathe with difficulty through the night at home, until he breathed out his last breath. His father was a veteran who later worked at the government, the pillar of his family. After the unfortunate death of his father, it took the funeral house over ten hours to get there. They were busy too, they needed to take multiple bodies at a time.
 
@@ -73,9 +73,9 @@ A doctor told Caijing, there's no specific medicine for COVID-19. For moderate a
 
 "The doctor told both my dad and I to try to get in a hospital, especially my dad, he can't wait any longer, his life is at risk." Du Hongli's father hadn't been able to eat or talk since January 27.
 
-Wuhan Liyuan Hospital's test result showed that Du Hongli's father had severe ground-glass lesions in his lungs, obvious lung spots, and blood oxygen levels of only 90, indicating that the patient had severe hypoxia symptoms.
+Wuhan Liyuan Hospital's test result showed that Du Hongli's father had severe ground glass lesions in his lungs, obvious lung spots, and blood oxygen levels of only 90, indicating that the patient had severe hypoxia symptoms.
 
-Du Hongli tried everything to get into a hospital, taking his father along. On January 27 he registered in his community, there has been no reply. His own lungs were infected too, and he has a low fever. He borrowed a van from a friend, driving his dad from hospital to hospital.
+Du Hongli tried everything to get into a hospital, taking his father along. On January 27 he registered in his community, there has been no reply. His own lungs were infected too, and he has a low fever. He borrowed a van from a friend, driving his father from hospital to hospital.
 
 **Wu Han 672 Hospital has over 300 beds, but they won't admit anyone without a hospitalization notice. The newly opened Wuhan Union Hospital Hanyang Campus has 700 beds, but they told Du Hongli the same thing, you need to wait.**
 
@@ -90,7 +90,7 @@ Du Hongli's father had served in the army for 15 years, been on the battlefield 
 
 **His father kept saying, he didn't die 70 years ago on the battlefield, but he could die now from the mismanagement of medical resources. "Everyday you only see two kinds of cars in front of the hospital, ambulances and cars from funeral homes, you only feel hopeless and helpless."**
 
-It's difficult for his father to move. Everyday Du Hongli took his dad to the outpatient department of Union Hospital Hanyang Campus to get shots, and slept in the hotel next to the hospital. Or he would go to Tongji Hospital and Union Hospital in the morning, to wait in line for a test strip, yet everyday Union Hospital only gave out 100 test strips, they were usually gone when they arrived. **By the time this article was published, his father was still not hospitalized, because they still hadn't had the opportunity to go through the entire diagnostic process.**
+It's difficult for his father to move. Everyday Du Hongli took his father to the outpatient department of Union Hospital Hanyang Campus to get shots, and slept in the hotel next to the hospital. Or he would go to Tongji Hospital and Union Hospital in the morning, to wait in line for a test strip, yet everyday Union Hospital only gave out 100 test strips, they were usually gone when they arrived. **By the time this article was published, his father was still not hospitalized, because they still hadn't had the opportunity to go through the entire diagnostic process.**
 
 Ms.Wang from Wuhan told Caijing, her mother had gone into a shock twice at home. Her mother had been getting medication and shots from the community before Chinese New Year. January 23, her mother felt particularly uncomfortable, so she rode a bike with her father to Hankou Hospital, waited in line for 12 hours and finally got CT scans. The results showed bilateral infection in the lungs.
 
