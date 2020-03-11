@@ -129,6 +129,10 @@ a {
   color: $brand; 
 }
 
+.main-content strong { 
+  font-weight: 500; 
+}
+
 .main-content figure { 
   max-width: 80%; 
   display: block; 
@@ -143,6 +147,14 @@ a {
   .main-content figure { 
     max-width: 100%; 
   } 
+}
+
+.main-content .highlight { 
+  max-width: 80%; 
+  display: block; 
+  margin-left: auto; 
+  margin-right: auto; 
+  background-color: rgba($primary, 0.25); 
 }
 
 /* FOOTER */
@@ -239,7 +251,7 @@ a {
     margin: 0;
     padding: 0;
     font-size: 1.25rem;
-    font-weight: 400;
+    font-weight: 500;
   
     a {
       color: $black;
