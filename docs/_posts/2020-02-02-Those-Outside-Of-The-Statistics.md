@@ -4,7 +4,7 @@ date: 2020-02-02
 categories: investigation
 translator: Anonymous, COVID-19 Readings
 image: assets/media/2020-02-02/those-outside-of-statistics-01.jpg
-blurb: "Liu Mei's family never seen her mother in law after she was taken by an ambulance. All they got was an invoice of cremation, it said, cause of death is: pneumonia."
+blurb: "Liu Mei's family never seen her mother-in-law after she was taken by an ambulance. All they got was an invoice of cremation, it said, cause of death is: pneumonia."
 ---
 
 *<a href="https://chinadigitaltimes.net/chinese/2020/02/%E8%B4%A2%E7%BB%8F-%E7%BB%9F%E8%AE%A1%E6%95%B0%E5%AD%97%E4%B9%8B%E5%A4%96%E7%9A%84%E4%BA%BA%EF%BC%9A%E4%BB%96%E4%BB%AC%E6%AD%BB%E4%BA%8E%E6%99%AE%E9%80%9A%E8%82%BA%E7%82%8E/" target="_blank">统计数字之外的人：他们死于“普通肺炎”？</a>*
@@ -22,11 +22,11 @@ Caijing interviewed over ten families, for most of them, all family members were
   <figcaption>January 31, fever patients lining up for IV at a hospital in Wuchang, Wuhan</figcaption>
 </figure>
 
-January 26, 2020, Liu Mei received an invoice of cremation. Her mother in law, a 73 year old woman, stopped breathing at home. She was rushed to the hospital and died after rescuing efforts had failed.
+January 26, 2020, Liu Mei received an invoice of cremation. Her mother-in-law, a 73 year old woman, stopped breathing at home. She was rushed to the hospital and died after rescuing efforts had failed.
 
-Liu Mei told reporters from Caijing, her mother in law started to show symptoms similar to COVID-19 on January 21. Checkup at Wuhan No.4 Hospital showed that her lungs were highly infected. She was taken to multiple hospitals but never admitted. She could only self-isolate at home, until she was critically ill.
+Liu Mei told reporters from Caijing, her mother-in-law started to show symptoms similar to COVID-19 on January 21. Checkup at Wuhan No.4 Hospital showed that her lungs were highly infected. She was taken to multiple hospitals but never admitted. She could only self-isolate at home, until she was critically ill.
 
-Liu Mei's family never saw her mother in law again after she was taken by an ambulance. All they got was an invoice of cremation, showing her cause of death: viral pneumonia. **According to the family, the death of the mother in law was not included in the number of COVID-19 deaths, because up to her death, she was never hospitalized nor confirmed diagnosed, she could only be treated as one of those unfortunate that died from “common pneumonia”.**
+Liu Mei's family never saw her mother-in-law again after she was taken by an ambulance. All they got was an invoice of cremation, showing her cause of death: viral pneumonia. **According to the family, the death of the mother-in-law was not included in the number of COVID-19 deaths, because up to her death, she was never hospitalized nor confirmed diagnosed, she could only be treated as one of those unfortunate that died from “common pneumonia”.**
 
 The old lady passed away so suddenly, there was no decent undertaking of her body, no farewell from the family. Until now her ashes were still at the funeral home.
 
@@ -49,7 +49,7 @@ Based on the current investigation, there were two main ways for patients to be 
 
 It is not easy to follow these two paths, and each one may be endless waiting. But for the severely ill, every minute can be a torment of life and death.
 
-Caijing interviewed over ten families, for most of them, all family members were infected. They carried their critically ill elderly and the pregnant woman, going from hospital to hospital. "The hospital told us we can only try to save ourselves." Many patients' family told Caijing, their loved ones' lives are hanging by a thread.
+Caijing interviewed over ten families, for most of them, all family members were infected. They carried their critically ill elderly and the pregnant woman, going from hospital to hospital. "The hospital told us we could only try to save ourselves." Many patients' family told Caijing, their loved ones' lives were hanging by a thread.
 
 Till 24PM January 31, 2020, there were cumulatively 7153 confirmed cases in Hubei, 3215 of which were from Wuhan.
 
@@ -65,7 +65,7 @@ Sun Chen said, January 26, his father suddenly coughed up blood during self isol
 
 The hospital told Sun Chen's father to isolate at home and take medicines, but Sun Chen realized, the cases around me were all severe, I have to get my father a hospital bed.
 
-What does a hospital bed mean? Without it, Li Kaimeng from Han Yang had to watch his father breathing with difficulty through the night at home, until he breathed out his last breath. His father was a veteran who later worked at the government, the pillar of his family. After the unfortunate death of his father, it took the funeral house over ten hours to get there. They were busy too, they needed to take multiple bodies at a time.
+What does a hospital bed mean? Without it, Li Kaimeng from Han Yang had to watch his father breathe with difficulty through the night at home, until he breathed out his last breath. His father was a veteran who later worked at the government, the pillar of his family. After the unfortunate death of his father, it took the funeral house over ten hours to get there. They were busy too, they needed to take multiple bodies at a time.
 
 A Wuhan railroad worker Chen Li's grandma, due to the lack of hospital beds, sat in Han Kou hospital outpatient waiting area for three days, eventually couldn't make it and died after failed rescue attempts. Grandma did not go through the diagnostic process either, so she also was not included in the numbers.
 
@@ -77,7 +77,7 @@ Wuhan Liyuan Hospital's test result showed that Du Hongli's father had severe gr
 
 Du Hongli tried everything to get into a hospital, taking his father along. On January 27 he registered in his community, there has been no reply. His own lungs were infected too, and he has a low fever. He borrowed a van from a friend, driving his dad from hospital to hospital.
 
-**Wu Han 672 Hospital has over 300 beds, but they wouldn't admit anyone without a hospitalization notice. The newly added Wuhan Union Hospital Hanyang Campus has 700 beds, but they told Du Hongli the same thing, you need to wait.**
+**Wu Han 672 Hospital has over 300 beds, but they won't admit anyone without a hospitalization notice. The newly opened Wuhan Union Hospital Hanyang Campus has 700 beds, but they told Du Hongli the same thing, you need to wait.**
 
 On January 28, Du Hongli rushed to the Trusted Investigation Office of the district government and received the same response, no beds. He asked the Health Commission and the other party replied that there was no solution and he could only wait. Because there was no way to coordinate patients across regions, they could only wait for admission to the corresponding hospital in the region.
 
@@ -90,17 +90,17 @@ Du Hongli's father had served in the army for 15 years, been on the battlefield 
 
 **His father kept saying, he didn't die 70 years ago on the battlefield, but he could die now from the mismanagement of medical resources. "Everyday you only see two kinds of cars in front of the hospital, ambulances and cars from funeral homes, you only feel hopeless and helpless."**
 
-It's difficult to move his father, everyday Du Hongli took his dad to the outpatient department of Union Hospital Hanyang Campus to get shots, and slept in the hotel next to the hospital. Or he would go to Tongji Hospital and Union Hospital in the morning, to wait in line for a test kit, yet everyday Union Hospital only gave out 100 test kits, they were usually gone when they arrived. **By the time this article was published, his father was still not hospitalized, because they still hadn’t had the opportunity to go through the entire diagnostic process.**
+It's difficult for his father to move. Everyday Du Hongli took his dad to the outpatient department of Union Hospital Hanyang Campus to get shots, and slept in the hotel next to the hospital. Or he would go to Tongji Hospital and Union Hospital in the morning, to wait in line for a test strip, yet everyday Union Hospital only gave out 100 test strips, they were usually gone when they arrived. **By the time this article was published, his father was still not hospitalized, because they still hadn’t had the opportunity to go through the entire diagnostic process.**
 
 Ms.Wang from Wuhan told Caijing, her mother had gone into a shock twice at home. Her mother had been getting medication and shots from the community before Chinese New Year. January 23, her mother felt particularly uncomfortable, so she rode a bike with her father to Hankou Hospital, waited in line for 12 hours and finally got CT scans. The results showed bilateral infection in the lungs.
 
-Ms.Wang said, at that time there's no I.V. available in the hospital, even Oseltamivir for the flu was in short supply, they could only prescribe her a dosage amount for children. After that her mother had to self isolate at home, relying on an oxygen machine at home. "One time my mom went into a shock, my dad cried while hugging my mom, thinking she was gone."
+Ms.Wang said, at that time there's no I.V. available in the hospital, even Oseltamivir for the flu was in short supply, they could only prescribe her a dosage amount for children. After that her mother had to self isolate at home, relying on an oxygen inhaler at home. "One time my mom went into a shock, my dad cried while hugging my mom, thinking she was gone."
 
-Before this, this old couple held the "don't trouble others when you can handle it yourself" attitude. But with these two back to back incidents, they had to call their daughter (aka Ms.Wang).
+Before this, this old couple held the "don't trouble others when you can handle it yourself" attitude. But with these two back to back incidents, they had to call their daughter.
 
 However at that moment, Ms.Wang and her husband were both infected, she had to take care of her husband who was in high fever, while both of her own lungs were showing ground glass opacity. Roads were blocked, she couldn't reach her parents. She called the ambulance for her parents, but there were close to 500 callers ahead of her. "At that time the ambulance call center told me, people who called two days ago were still not taken to the hospitals, there's not much hope."
 
-Holding on until about three or four o’clock that afternoon, the two seniors were exhausted, but still struggled to ride bikes to the hospital.
+Holding on until about three or four o’clock that afternoon, the two elders were exhausted, but still struggled to ride bikes to the hospital.
 
 Ms.Wang continued to call the "mayor's hotline". **The next day, she got a response, “you need to report to your community, then the community will report to the street, then the street will contact the command center. If there's a bed available, the command center will contact the hospital to arrange for you guys.”**
 
@@ -152,7 +152,7 @@ The leader from the community where Wang Mu worked told Caijing, on January 30 a
 
 The other path, patients waiting in line at a designated hospital for confirmed diagnoses, takes forever too.
 
-Liu Mei said, after her mother in law passed away, her eldest and younger brothers and her husband were also infected. Their condition got worse and they needed to be hospitalized. **They went to Tongji Hospital on February 1 to queue up for the nucleic acid test strip, and were told that there were only 10 test strips a day.**
+Liu Mei said, after her mother-in-law passed away, her eldest and younger brothers and her husband were also infected. Their condition got worse and they needed to be hospitalized. **They went to Tongji Hospital on February 1 to queue up for the nucleic acid test strip, and were told that there were only 10 test strips a day.**
 
 Until the publication of this article, there are only 10 hospitals that can perform nucleic acid tests. They are: Wuhan Jinyintan Hospital, Wuhan Pulmonary Hospital, Tongji Hospital Affiliated to Central China University of Science and Technology, Union Hospital Affiliated to Central China University of Science and Technology, Hubei Provincial People's Hospital, Wuhan University Zhongnan Hospital, Wuhan First Hospital, Wuhan Central Hospital, Wuhan Third Hospital, and Wuhan Center for Disease Control and Prevention.
 
