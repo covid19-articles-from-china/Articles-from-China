@@ -77,9 +77,9 @@ Wuhan Liyuan Hospital's test result showed that Du Hongli's father had severe gr
 
 Du Hongli tried everything to get into a hospital, taking his father along. On January 27 he registered in his community, there has been no reply. His own lungs were infected too, and he has a low fever. He borrowed a van from a friend, driving his father from hospital to hospital.
 
-**Wu Han 672 Hospital has over 300 beds, but they won't admit anyone without a hospitalization notice. The newly opened Wuhan Union Hospital Hanyang Campus has 700 beds, but they told Du Hongli the same thing, you need to wait.**
+**Wuhan 672 Hospital has over 300 beds, but they won't admit anyone without a hospitalization notice. The newly opened Wuhan Union Hospital Hanyang Campus has 700 beds, but they told Du Hongli the same thing, you need to wait.**
 
-On January 28, Du Hongli rushed to the Trusted Investigation Office of the district government and received the same response, no beds. He asked the Health Commission and the other party replied that there was no solution and he could only wait. Because there was no way to coordinate patients across regions, they could only wait for admission to the corresponding hospital in the region.
+On January 28, Du Hongli rushed to the Trusted Investigations Office of the district government and received the same response, no beds. He asked the Health Commission and the other party replied that there was no solution and he could only wait. Because there was no way to coordinate patients across regions, they could only wait for admission to the corresponding hospital in the region.
 
 Du Hongli's father had served in the army for 15 years, been on the battlefield in the Korean War, and been a close guard for two senior generals. Du Hongli told Caijing reporters that the whole family had now been infected, and his symptoms of dizziness and chest tightness were getting worse and worse. He didn't know how long he could hold on with his father.
 
@@ -92,37 +92,37 @@ Du Hongli's father had served in the army for 15 years, been on the battlefield 
 
 It's difficult for his father to move. Everyday Du Hongli took his father to the outpatient department of Union Hospital Hanyang Campus to get shots, and slept in the hotel next to the hospital. Or he would go to Tongji Hospital and Union Hospital in the morning, to wait in line for a test strip, yet everyday Union Hospital only gave out 100 test strips, they were usually gone when they arrived. **By the time this article was published, his father was still not hospitalized, because they still hadn't had the opportunity to go through the entire diagnostic process.**
 
-Ms.Wang from Wuhan told Caijing, her mother had gone into a shock twice at home. Her mother had been getting medication and shots from the community before Chinese New Year. January 23, her mother felt particularly uncomfortable, so she rode a bike with her father to Hankou Hospital, waited in line for 12 hours and finally got CT scans. The results showed bilateral infection in the lungs.
+Wuhan resident Ms. Wang told Caijing, her mother had gone into a shock twice at home. Her mother had been getting medication and shots from the community before Chinese New Year. January 23, her mother felt particularly uncomfortable, so she rode a bike with her father to Hankou Hospital, waited in line for 12 hours and finally got CT scans. The results showed bilateral infection in the lungs.
 
-Ms.Wang said, at that time there's no I.V. available in the hospital, even Oseltamivir for the flu was in short supply, they could only prescribe her a dosage amount for children. After that her mother had to self isolate at home, relying on an oxygen inhaler at home. "One time my mom went into a shock, my dad cried while hugging my mom, thinking she was gone."
+Ms. Wang said, at that time there was no I.V. available in the hospital, even Oseltamivir for the flu was in short supply, they could only prescribe her a dosage amount for children. After that her mother had to self isolate at home, relying on an oxygen inhaler at home. "One time my mom went into a shock, my dad cried while hugging my mom, thinking she was gone."
 
 Before this, this old couple held the "don't trouble others when you can handle it yourself" attitude. But with these two back to back incidents, they had to call their daughter.
 
-However at that moment, Ms.Wang and her husband were both infected, she had to take care of her husband who was in high fever, while both of her own lungs were showing ground glass opacity. Roads were blocked, she couldn't reach her parents. She called the ambulance for her parents, but there were close to 500 callers ahead of her. "At that time the ambulance call center told me, people who called two days ago were still not taken to the hospitals, there's not much hope."
+However at that moment, Ms. Wang and her husband were both infected, she had to take care of her husband who was in high fever, while both of her own lungs were showing ground glass opacity. Roads were blocked, she couldn't reach her parents. She called the ambulance for her parents, but there were close to 500 callers ahead of her. "At that time the ambulance call center told me, people who called two days ago were still not taken to the hospitals, there's not much hope."
 
 Holding on until about three or four o'clock that afternoon, the two elders were exhausted, but still struggled to ride bikes to the hospital.
 
-Ms.Wang continued to call the "mayor's hotline". **The next day, she got a response, "you need to report to your community, then the community will report to the street, then the street will contact the command center. If there's a bed available, the command center will contact the hospital to arrange for you guys."**
+Ms. Wang continued to call the "mayor's hotline". **The next day, she got a response, "you need to report to your community, then the community will report to the street, then the street will contact the command center. If there's a bed available, the command center will contact the hospital to arrange for you guys."**
 
 Professor Yao Lan, deputy director of the China Basic Medical Security Research Center of Huazhong University of Science and Technology, told Caijing reporters that promoting the lower level health care system and implementing true hierarchical diagnosis and treatment is an effective measure to avoid overcrowding at hospitals and preventing cross infection.
 
-**But to patients in severe conditions, every minute is a torment between life and death. They don't know how long it takes for the community to report. "We've been reporting to the community all the time, they said there's nothing they can do, saying they are reporting, when is this gonna come to an end?" Ms.Wang said.**
+**But to patients in severe conditions, every minute is a torment between life and death. They don't know how long it takes for the community to report. "We've been reporting to the community all the time, they said there's nothing they can do, saying they are reporting, when is this gonna come to an end?" Ms. Wang said.**
 
 During that time, they had called every number they could find, contacted everyone that could help, she even called the police, the police gave her a number, she called, the other end said she had to contact the community.
 
-January 29, Ms.Wang felt that her parents couldn't make it much longer. She called for the ambulance again. The call center said that they could only send an ambulance if they had already had a hospital bed arranged.
+January 29, Ms. Wang felt that her parents couldn't make it much longer. She called for the ambulance again. The call center said that they could only send an ambulance if they had already had a hospital bed arranged.
 
-Ms.Wang remembered something she saw online, about there being 700 added beds at Union Hospital West Campus. so she persuaded the call center to send an ambulance and take her parents to Union Hospital West Campus. It was 9 pm when they arrived. The ambulance crew said, **"There are a lot of people at the hospital, patients are lying down outside the ER, and there's no emergency equipment, you might not get your turn even if you wait in line."**
+Ms. Wang remembered something she saw online, about there being 700 added beds at Union Hospital West Campus. so she persuaded the call center to send an ambulance and take her parents to Union Hospital West Campus. It was 9 pm when they arrived. The ambulance crew said, **"There are a lot of people at the hospital, patients are lying down outside the ER, and there's no emergency equipment, you might not get your turn even if you wait in line."**
 
 About the 700 beds, it was said that because there was a shortage in protective suits for doctors, they couldn't make them all available. "Because if you make them available, doctors will get infected too without protective equipment."
 
-The ambulance crew asked Ms.Wang to quickly choose a second hospital, she begged them to take her parents to Wuchang Hospital. She brought her quilt and hand warmer to the hospital to meet her parents. That was the first time she saw her parents since January 20.
+The ambulance crew asked Ms. Wang to quickly choose a second hospital, she begged them to take her parents to Wuchang Hospital. She brought her quilt and hand warmer to the hospital to meet her parents. That was the first time she saw her parents since January 20.
 
 Their faces were white, her father's temperature was over 39°C, he couldn't even stand up straight. Her mother was lying down in the ambulance breathing in the oxygen. There was no bed available, the hospital couldn't take them. The ambulance crew was rushing them, they had spent three hours on this family already.
 
 **At this point, her mother made a decision. She held her hands together in namaste and told the crew, "if I am going to die, I want to die at home, I am not leaving my home anymore, there's no hope, please take me home." The crew asked Ms. Wang to sign a document, took her mother back inside the ambulance and closed the door.**
 
-Watching the ambulance leave, Ms.Wang couldn't hold it any more. She crouched down, sat on the quilt, and bawled.
+Watching the ambulance leave, Ms. Wang couldn't hold it any more. She crouched down, sat on the quilt, and bawled.
 
 **The Long Intake Process**
 
@@ -136,7 +136,7 @@ As a social worker for a community on Wuhan Huaqiao Street, Wang Mu had been wor
 
 **Caijing reporters acquired the reporting standards as follows:**
 
-Fever patient: (1) Fever over 37.5℃; (2) cough; (3) lack of strength.
+Fever patient: (1) Fever over 37.5°C; (2) cough; (3) lack of strength.
 
 Suspected Patient: (1) CT scans show bilateral ground glass developments; (2) white cell abnormality in blood lab report; (3) meet the fever patient requirements.
 
@@ -226,7 +226,7 @@ That night, when Chen Xiaowei and her husband arrived at Union Hospital West Cam
 
 Professor Yao Lan, deputy director of the Security Center of Huazhong University of Science and Technology, said she saw that Macau had requisitioned a hotel relatively far from the crowd as a centralized management area for people with a history of contact in Hubei. She suggested that similar measures could be taken in Hubei and other regions to effectively control suspected cases.
 
-Shen Jun, chief assistant of the emergency center of Zhongnan Hospital and director of emergency surgery, told Caijing reporters that **all patients that Zhongnan Hospital has taken in are in serious condition, "patients with very unstable vital signs (patients with poor oxygenation, fast heart rate, fast breathing rate, and respiratory distress syndrome)". There is a shortage of beds, and those suspected or mild cases are isolated at home.**
+Dr. Shen Jun, chief assistant of the emergency center of Zhongnan Hospital and director of emergency surgery, told Caijing reporters that **all patients that Zhongnan Hospital has taken in are in serious condition, "patients with very unstable vital signs (patients with poor oxygenation, fast heart rate, fast breathing rate, and respiratory distress syndrome)". There is a shortage of beds, and those suspected or mild cases are isolated at home.**
 
 <figure>
   <img src="/assets/media/2020-02-02/those-outside-of-statistics-04.png" alt="operation"/>
@@ -235,11 +235,11 @@ Shen Jun, chief assistant of the emergency center of Zhongnan Hospital and direc
 
 It is said that there are almost no empty beds in the hospital, the emergency department is also used to treat patients with viral lung infection, ER observation rooms are also full. "Basically whenever there is a vacant bed, one person from the observation room goes in."
 
-Shen Jun said, (current) management of the beds can't satisfy the needs from the communities. "For example, some patients are taken to the hospital by their family, they are very sick, if there's a space in the observation room, they can stay there, I can't let them go back to wait in line and wait for the community report to arrange for them. Or that I don't take him, and instead take someone with mild conditions reported from the community, that's definitely not possible."
+Dr. Shen Jun said, (current) management of the beds can't satisfy the needs from the communities. "For example, some patients are taken to the hospital by their family, they are very sick, if there's a space in the observation room, they can stay there, I can't let them go back to wait in line and wait for the community report to arrange for them. Or that I don't take him, and instead take someone with mild conditions reported from the community, that's definitely not possible."
 
 About the test kits, he said Zhongnan Hospital's fever clinic can do the test, and it takes about two hours to get the result. But there's a limit in test kits, they are only given to patients showing viral infection in lung CT scans.
 
-Shenjun suggested that, if possible, gather the mild condition patients, centralize the isolation and treatment, so that the epidemic can be effectively controlled. He also suggested that patients isolating at home take two kinds of medicine, the antiviral and the antiinfective, and if the fever is over 38.5℃ to reduce the temperature. "So far there's no special medicine for this, don't follow the Internet and take whatever people say that may work. Hospitalization is to provide supportive care for severe condition patients, if you can make it through this period, it will be over, that's all."
+Dr. Shen Jun suggested that, if possible, gather the mild condition patients, centralize the isolation and treatment, so that the epidemic can be effectively controlled. He also suggested that patients isolating at home take two kinds of medicine, the antiviral and the antiinfective, and if the fever is over 38.5°C to reduce the temperature. "So far there's no special medicine for this, don't follow the Internet and take whatever people say that may work. Hospitalization is to provide supportive care for severe condition patients, if you can make it through this period, it will be over, that's all."
 
 <figure>
   <img src="/assets/media/2020-02-02/those-outside-of-statistics-05.png" alt="operation"/>
@@ -248,9 +248,9 @@ Shenjun suggested that, if possible, gather the mild condition patients, central
 
 The last two days he received a 45 year old patient, a family of five, both parents had died from COVID-19, the son was also infected. The patient's condition was very serious. They used high-flow oxygen inhalation and non-invasive mask ventilation, but her blood oxygen saturation was still only 50%. Finally, she had to be anesthetized and intubated with ECMO (extracorporeal membrane oxygenation).
 
-**"Before we did the anesthesia for intubation, she watched us prepare, her tears kept falling, that fear breaks your heart," Shen Jun said that there were many situations like this. "We doctors are all determined to do our best to save all the patients".**
+**"Before we did the anesthesia for intubation, she watched us prepare, her tears kept falling, that fear breaks your heart," Dr. Shen Jun said that there were many situations like this. "We doctors are all determined to do our best to save all the patients".**
 
-Sun Chen, who has been waiting for the nucleic acid test strip with her father, does not allow herself to cry or succumb to insomnia any more. She knows she has to continue to urge the community, look for a hospital, and cook for her parents. Too many things to do, she can't fail. She expects Huoshenshan and Leishenshan Hospitals to be built soon. "Must get in. This is our last hope.
+Sun Chen, who has been waiting for the nucleic acid test strip with her father, does not allow herself to cry or succumb to insomnia any more. She knows she has to continue to urge the community, look for a hospital, and cook for her parents. Too many things to do, she can't fail. She expects Huoshenshan and Leishenshan Hospitals to be built soon. "Must get in. This is our last hope."
 
 
 *(In the text, Liu Mei, Sun Chen, Li Kaimeng, Chen Li, Liu Xiaoqing, Li Li, and Wang Mu are aliases. Intern Zhang Fan and volunteer Geng Peng also contributed to this article.)*
