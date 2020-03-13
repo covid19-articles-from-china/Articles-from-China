@@ -1,6 +1,8 @@
 ---
 title: 'The Two Month Old Baby Girl in The Quarantine Ward'
 date: 2020-02-26
+publisher: China Youth Daily
+publisher_url: http://zqb.cyol.com/html/2020-02/26/nw.D110000zgqnb_20200226_3-06.htm
 categories: [general]
 external_url: https://www.reddit.com/r/China_Flu/comments/faivwd/a_story_of_a_two_month_old_patient_how_she_was/
 blurb: Before Chinese New Year, before everything went into a nightmare, Lele just turned one month old, her grandparents in Anlu, Hubei really wanted to see their grandchild, so Lele's parents drove all the way from Guizhou to Hubei for a family gather together.
