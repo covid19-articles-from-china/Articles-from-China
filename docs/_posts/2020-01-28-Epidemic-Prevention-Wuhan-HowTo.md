@@ -1,6 +1,8 @@
 ---
 title: 'Epidemic Prevention in Wuhan: How to Make Good Use of Available Resources?'
 date: 2020-01-28
+publisher: Sanlian Lifeweek
+publisher_url: https://mp.weixin.qq.com/s/QQQwIguacVU-w4YjWVWphQ
 categories: [general]
 external_url: https://github.com/memoryhonest/nCovMemory-en/blob/master/docs/2020-01-28/epidemic_prevention_in_wuhan.md
 image: assets/media/2020-01-28/epidemic-prevention-01.png

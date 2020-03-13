@@ -1,6 +1,8 @@
 ---
 title: 'Death of a 17-year-old Teenager with Cerebral Palsy After His Father was Quarantined for Six Days'
 date: 2020-02-02
+publisher: Sanlian Lifeweek
+publisher_url: https://mp.weixin.qq.com/s/U_cBuM7CtPJKWAJFM10MiA
 categories: [general]
 external_url: https://github.com/memoryhonest/nCovMemory-en/blob/master/docs/2020-02-02/death_of_a_17_year_old_teenager.md
 image: assets/media/2020-02-02/cerebral-palsy-01.jpg

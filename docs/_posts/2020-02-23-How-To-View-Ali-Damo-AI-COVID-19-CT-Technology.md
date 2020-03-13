@@ -1,6 +1,8 @@
 ---
 title: "How to View Ali Damo Academy's COVID-19 CT Scan AI Diagnosis Technology, Which Could Recognize It in 20 Seconds with An Accuracy of 96%?"
 date: 2020-02-23
+publisher: Zhihu
+publisher_url: https://www.zhihu.com/question/372335557
 categories: ['opinion']
 image: /assets/media/2020-02-23/how-to-view-ali-damo-ai-01.jpg
 blurb: 'OP (original poster) is a student of radiology. I actually have always worried about the possibility of AI replacing doctors. After all, this is a career that depends on experience, and this is exactly where AI has such an advantage, where it can continously and rapidly learn given current data.'

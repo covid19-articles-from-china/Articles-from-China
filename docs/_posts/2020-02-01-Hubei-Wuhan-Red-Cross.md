@@ -1,6 +1,8 @@
 ---
 title: 'On site | Hubei and Wuhan Red Cross Society, Donations Stuck Here?'
 date: 2020-02-01
+publisher: Sanlian Lifeweek
+publisher_url: https://mp.weixin.qq.com/s/CcP9ECRX80nCKvJxcRMDXw
 categories: [investigation]
 external_url: https://github.com/memoryhonest/nCovMemory-en/blob/master/docs/2020-02-01/donations_stuck_here.md
 image: assets/media/2020-02-01/red-cross-01.png

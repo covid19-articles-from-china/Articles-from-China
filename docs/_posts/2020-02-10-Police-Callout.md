@@ -1,6 +1,8 @@
 ---
 title: 'Police Call-outs to the Field for Thousands of Weird Reasons, All Concerning Coronavirus (COVID-19)'
 date: 2020-02-10
+publisher: The Portrait Magazine
+publisher_url: https://mp.weixin.qq.com/s/KbFax4bUb8SYZn5v7QY9Jw
 categories: ['Personal Experience']
 external_url: https://github.com/memoryhonest/nCovMemory-en/blob/master/docs/2020-02-10/thousands_weird_police_call_outs.md
 image: assets/media/2020-02-10/police-call-out-01.png

@@ -1,6 +1,8 @@
 ---
 title: 'The Regret of Wuhan: How China Missed the Critical Window for Controlling the Coronavirus Outbreak'
 date: 2020-02-05
+publisher: China Newsweek
+publisher_url: http://www.inewsweek.cn/
 categories: [opinion]
 external_url: https://chinachange.org/2020/02/09/the-regret-of-wuhan-how-china-missed-the-critical-window-for-controlling-the-coronavirus-outbreak/
 image: assets/media/2020-02-05/regret-of-wuhan-01.jpg

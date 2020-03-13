@@ -1,6 +1,8 @@
 ---
 title: 'Oral Record | Delivery Guy Solving Jinyintan Hospital Staff Problems: I Was Not Delivering Packages, I Was Delivering People that Saved Lives!'
 date: 2020-02-15
+publisher: Xinmin Weekly
+publisher_url: https://mp.weixin.qq.com/s/ClBv1ZomfQ__GG2AFHEKrQ
 categories: ['personal experience']
 external_url: https://www.reddit.com/r/China_Flu/comments/f5eeuf/a_story_of_wangyong_a_delivery_man_helped_over/
 image: assets/media/2020-02-15/delivery-guy-01.webp

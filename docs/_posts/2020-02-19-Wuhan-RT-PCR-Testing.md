@@ -1,6 +1,8 @@
 ---
 title: 'AB Side of Wuhan RT-PCR Testing: Patients Worried, Hospitals Swamped, Third Party Facilities "Starving" (coming soon)'
 date: 2020-02-19
+publisher: National Business Daily
+publisher_url: http://www.nbd.com.cn/articles/2020-02-19/1409645.html
 categories: investigation
 translator: 'COVID-19 Readings'
 image: /assets/media/2020-02-19/ab-side-of-testing-01.jpeg

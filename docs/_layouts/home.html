@@ -22,6 +22,10 @@ layout: default
         <footer class="post-meta">
           <span class="post-tag">🗓{{ post.date | date: "%Y-%m-%d" }}</span>
 
+          {% if post.publisher %}
+            <span class="post-tag">📰<a href="{{ post.publisher_url }}" target="_blank">{{ post.publisher }}</a></span>
+          {% endif %}
+
           {% if post.categories %}
             {% for cat in post.categories %}
               <span class="post-tag">🏷{{ cat }}</span>

@@ -1,6 +1,8 @@
 ---
 title: '3.1 Publications per Day on Average: Chinese Scientists Battle the Outbreak'
 date: 2020-02-14
+publisher: Southern Weekly
+publisher_url: https://mp.weixin.qq.com/s/a2qFDYa9i6cKi5xggRNLCg 
 categories: [analysis]
 external_url: https://github.com/memoryhonest/nCovMemory-en/blob/master/docs/2020-02-14/chinese_scientists_battle_the_outbreak.md
 image: assets/media/2020-02-14/scientific-publications-01.png
