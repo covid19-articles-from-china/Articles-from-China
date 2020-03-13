@@ -1,6 +1,8 @@
 ---
 title: 'Those Outside of The Statistics: They Died from Common Pneumonia?'
 date: 2020-02-02
+publisher: Caijing Magazine
+publisher_url: http://english.caijing.com.cn/
 categories: investigation
 translator: Anonymous, COVID-19 Readings
 image: assets/media/2020-02-02/those-outside-of-statistics-01.jpg

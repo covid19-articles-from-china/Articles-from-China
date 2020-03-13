@@ -2,13 +2,15 @@
 title: 'An "American Drifter" Code Farmer from Hubei: Being A Suspected COVID-19 Case in The US'
 date: 2020-02-20
 translation_date: 2020-02-27
+publisher: 'WeChat @Sandwiches'
+publisher_url: https://m.huxiu.com/article/340567.html
 categories: ['personal experience']
 translator: TIAN Xiufang (COVID-19 Readings)
 image: /assets/media/2020-02-20/american-drifter-03.jpg
 blurb: '“A lot of times, I took the food upstairs to eat, and after I was done I went downstairs, I didn’t know where to wash the dishes. Whether the door handle needed to be wiped? Going downstairs with shoes on, should I wipe the soles of my shoes? (Despite) having been wearing gloves for days, I didn’t dare to touch things at home. My kid would look at me and call daddy, and I dare not hold her.”'
 ---
 
-*The origianl article [一个"美漂"湖北码农：我在美国被怀疑新冠疑似](https://m.huxiu.com/article/340567.html) was from the WeChat Official Account: Sandwiches (ID: china30s), edited by author: Xi Da*
+*The origianl article <a href="https://m.huxiu.com/article/340567.html" target="_blank">一个"美漂"湖北码农：我在美国被怀疑新冠疑似</a> was from the WeChat Official Account: Sandwiches (ID: china30s), edited by author: Xi Da*
 
 *Translator: TIAN Xiufang (COVID-19 Readings)*
 

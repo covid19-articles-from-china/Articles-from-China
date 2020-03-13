@@ -1,6 +1,8 @@
 ---
 title: 'Alibaba DAMO Academy Medical AI: Deployed in 26 Hospitals, Diagnosed over 30,000 Suspected COVID-19 Cases (coming soon)'
 date: 2020-02-16
+publisher: InfoQ
+publisher_url: https://www.infoq.cn/article/7o6EObPl73a4W07bJa5c
 categories: ['general']
 translator: COVID-19 Readings
 image: assets/media/2020-02-16/ali-damo-ai-01.png

@@ -1,6 +1,8 @@
 ---
 title: 'Li Wenliang: An Ordinary Person'
 date: 2020-02-07
+publisher: The Portrait Magazine
+publisher_url: https://mp.weixin.qq.com/s/I1J3wCbfbMP7AecP1_Ie2A 
 categories: [portrait]
 external_url: https://github.com/memoryhonest/nCovMemory-en/blob/master/docs/2020-02-07/liwenliang_an_ordinary_person.md
 image: assets/media/2020-02-07/li-wenliang-01.png

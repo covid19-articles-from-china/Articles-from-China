@@ -1,6 +1,8 @@
 ---
-title: 'Statement in support of the scientists, public health professionals, and medical professionals of China combatting COVID-19 -- The Lancet'
+title: 'Statement in support of the scientists, public health professionals, and medical professionals of China combatting COVID-19'
 date: 2020-02-19
+publisher: The Lancet
+publisher_url: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30418-9/fulltext
 categories: ['academic']
 external_url: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30418-9/fulltext
 image: assets/media/2020-02-19/the-lancet-01.jpg
