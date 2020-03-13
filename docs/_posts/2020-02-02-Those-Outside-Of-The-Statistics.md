@@ -1,5 +1,5 @@
 ---
-title: 'Those Outside of The Statistics: They Died from Common Pneumonia?'
+title: 'Those Outside of The Statistics: They Died from "Common Pneumonia"?'
 date: 2020-02-02
 publisher: Caijing Magazine
 publisher_url: http://english.caijing.com.cn/
