@@ -6,7 +6,7 @@ publisher_url: http://english.caijing.com.cn/
 categories: investigation
 translator: Anonymous, COVID-19 Readings
 image: assets/media/2020-02-02/those-outside-of-statistics-01.jpg
-blurb: "Liu Mei's family never seen her mother-in-law after she was taken by an ambulance. All they got was an invoice of cremation, it said, cause of death is: pneumonia."
+blurb: "Liu Mei’s family never saw her mother-in-law again after she was taken by an ambulance. All they got was an invoice of cremation, showing her cause of death: viral pneumonia."
 ---
 
 *<a href="https://chinadigitaltimes.net/chinese/2020/02/%E8%B4%A2%E7%BB%8F-%E7%BB%9F%E8%AE%A1%E6%95%B0%E5%AD%97%E4%B9%8B%E5%A4%96%E7%9A%84%E4%BA%BA%EF%BC%9A%E4%BB%96%E4%BB%AC%E6%AD%BB%E4%BA%8E%E6%99%AE%E9%80%9A%E8%82%BA%E7%82%8E/" target="_blank">统计数字之外的人：他们死于"普通肺炎"？</a>*
