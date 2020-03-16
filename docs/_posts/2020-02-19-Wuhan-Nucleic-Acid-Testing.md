@@ -4,7 +4,7 @@ date: 2020-02-19
 publisher: National Business Daily
 publisher_url: http://www.nbd.com.cn/articles/2020-02-19/1409645.html
 categories: investigation
-translator: 'COVID-19 Readings'
+translator: 'Maggie Pan'
 image: /assets/media/2020-02-19/ab-side-of-testing-01.jpeg
 blurb: 'But after the daily testing capacity of BGI Genomics increased to 10,000 cases, the daily samples they received barely reached over 1,000. The team could finish testing the samples sent over the previous night by noon, and the capacity idle rate was as high as 80%.'
 
@@ -14,7 +14,7 @@ blurb: 'But after the daily testing capacity of BGI Genomics increased to 10,000
 
 *Author: JIN Zhe, YUE Qi, CHEN Xing, LIU Ling (National Business Daily)*
 
-*Translator: COVID-19 Readings*
+*Translator: Maggie Pan (COVID-19 Readings)*
 
 ---
 
@@ -42,7 +42,7 @@ At the end of January 2020, Yuan Li (pseudonym)'s parents developed a lung infec
 Because the hospital's nucleic acid testing kit has been used up, Yuan Li's parents can only undergo a CT examination, with results showing bilateral lung infection with ground glass opacity. Even if the symptoms coincide with the new coronary pneumonia infection, but without confirmation from the "gold standard" nucleic acid test, Yuan Li's parents cannot be confirmed diagnosed, they can only go to the hospital every day for injection.
 
 Nucleic acid test kits are an important medical resource for the detection of new coronavirus, but they were difficult to find in the early stage. Official data show that before January 16, there were no test kits in Hubei Province, all test samples need to be sent to designated testing agencies in Beijing, the round-trip time for a sample result was of 3 to 5 days. Even with the kits later, Hubei provincial CDC's daily testing capacity was only over 200 per day, and it simply couldn't match the daily increase in the number of suspected cases.
-On January 22nd, Wuhan Municipal Health and Medical Commission approved 10 aid hospitals and disease control centers to carry out testing of the new coronavirus. If they are all running, the number of samples that can be processed in one day approached 2000.
+On January 22, Wuhan Municipal Health and Medical Commission approved 10 aid hospitals and disease control centers to carry out testing of the new coronavirus. If they are all running, the number of samples that can be processed in one day approached 2000.
 
 Some already sensed that an uphill battle is coming. Wang Jian, a former head of the SARS pathogen group in Beijing, judged that the outbreak of the new coronavirus pneumonia had many similarities with 17 years ago, and BGI Genomics began developing test kits for the virus. On January 14, a piece of good news broke the silence: BGI Genomics has developed a noval coronavirus nucleic acid test kit. On Chinese New Year's Day (January 25), Wang and three colleagues left for the hard-hit areas of Wuhan.
 
@@ -50,7 +50,7 @@ On January 26, the State Drug Administration approved novel coronavirus detectio
 
 Starting from February 2, the number of samples BGI Genomics received each day has basically never exceeded 2000, February 9 they received 1754 samples, the next day they tested more than 1800 samples, with idle production capacity of more than 8,100 samples.
 
-"You see my numbers here, empty empty empty.On February 1 it was still full, after that there were a lot of emptiness." Wang Jian pointed to the bar chart on the screen and told reporters that samples collected from the previous day at noon were basically tested by noon. The current testing capacity is at 10,000 cases, the idle rate has reached 80%.
+"You see my numbers here, empty empty empty. On February 1 it was still full, after that there were a lot of emptiness." Wang Jian pointed to the bar chart on the screen and told reporters that samples collected from the previous day at noon were basically tested by noon. The current testing capacity is at 10,000 cases, the idle rate has reached 80%.
 
 <figure>
   <img src="/assets/media/2020-02-19/ab-side-of-testing-02.png" alt="bar chart"/>
