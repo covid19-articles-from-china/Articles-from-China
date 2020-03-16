@@ -7,6 +7,12 @@
       <title>{{ site.title }}</title>
     {% endif %}
     
+    {% if page.image %}
+      <meta property="og:image" content="{{ page.image }}">
+    {% else %}
+      <meta property="og:image" content="/assets/media/covid19readings.png">
+    {% endif %}
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
