@@ -252,7 +252,7 @@ The last two days he received a 45 year old patient, a family of five, both pare
 
 **"Before we did the anesthesia for intubation, she watched us prepare, her tears kept falling, that fear breaks your heart," Dr. Shen Jun said that there were many situations like this. "We doctors are all determined to do our best to save all the patients".**
 
-Sun Chen, who has been waiting for the nucleic acid test strip with her father, does not allow herself to cry or succumb to insomnia any more. She knows she has to continue to urge the community, look for a hospital, and cook for her parents. Too many things to do, she can't fail. She expects Huoshenshan and Leishenshan Hospitals to be built soon. "Must get in. This is our last hope."
+Sun Chen, who has been waiting for the nucleic acid test strip with her father, does not allow herself to cry or succumb to insomnia any more. She knows she has to continue to urge the community, look for a hospital, and cook for her parents. Too many things to do, she can't fail. She expects <a href="/articles/2020/02/08/Huoshenshan-Construction-Incomplete-Manual" target="_blank">Huoshenshan and Leishenshan Hospitals to be built soon</a>. "Must get in. This is our last hope."
 
 
 *(In the text, Liu Mei, Sun Chen, Li Kaimeng, Chen Li, Liu Xiaoqing, Li Li, and Wang Mu are aliases. Intern Zhang Fan and volunteer Geng Peng also contributed to this article.)*

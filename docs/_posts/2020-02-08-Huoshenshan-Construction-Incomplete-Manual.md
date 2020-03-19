@@ -7,10 +7,10 @@ publisher_url: www.weibo.com
 categories: ['general']
 translator: COVID-19 Readings
 image: /assets/media/2020-02-08/huoshenshan-01.jpg
-blurb: Construction of the Hoshenshan Hospital was livestreamed in China. Weibo user @偶脚得偶还可以抢救一下 (roughly translates to "me thinks me still worth saving") organized and posted an account of the process.
+blurb: Huoshenshan Hospital (火神山医院, "Fire God Mountain Hospital") is a 1000-bed hospital built in 10 days (January 23 - February 2, 2020) in response to the novel coronavirus outbreak in Wuhan. Construction of the hospital was live streamed in China. Weibo user @偶脚得偶还可以抢救一下 (roughly translates to "me thinks me still worth saving") organized and posted an account of the process in this mock manual.
 ---
 
-*Construction of the Hoshenshan Hospital was livestreamed in China. Weibo user @偶脚得偶还可以抢救一下 (roughly translates to "me thinks me still worth saving") organized and posted an account of the process in <a href="http://blog.sciencenet.cn/blog-699-1217610.html" target="_blank">火神山建设不完全手册</a>*.
+*Huoshenshan Hospital (火神山医院, "Fire God Mountain Hospital") is a 1000-bed hospital built in 10 days (January 23 - February 2, 2020) in response to the novel coronavirus outbreak in Wuhan. Construction of the hospital was live streamed in China. Weibo user @偶脚得偶还可以抢救一下 (roughly translates to "me thinks me still worth saving") organized and posted an account of the process in <a href="http://blog.sciencenet.cn/blog-699-1217610.html" target="_blank">火神山建设不完全手册</a>*.
 
 *Translator: COVID-19 Readings*
 
@@ -33,7 +33,7 @@ You need CITIC Architectural Design Institute to assemble 60 designers in one ho
 
 You need Wuhan Hangfa Group to quickly enter the site to begin site leveling, road and drainage engineering construction. At the same time, the emergency engineering construction team composed of GeoEnviron, Oriental Yuhong, Xingyuan Environment, Yinjiang Environmental Protection and other leading companies in the industry to be responsible for the construction of anti-seepage projects, sewage treatment and medical waste transfer facilities; it is also necessary to summon the China Railway Heavy Industry Corporation, a subsidiary of China Railway Industry Corporation, and the 11th and 14th bureaus of China Railway Construction to rapidly increase their support to catch up with the construction at the most difficult time.
 
-You need 260 electricians from the National Grid to work around the clock without sleep. You need six 10-box transformer substations from China Power Hubei Equipment Company, and complete the relocation of two 10-kilovolt lines, the installation of 24 box-type transformers, the laying of 8000 meters of power cables, and start the power transmission on time by January 31 .
+You need 260 electricians from the National Grid to work around the clock without sleep. You need six 10-box transformer substations from China Power Hubei Equipment Company, and complete the relocation of two 10-kilovolt lines, the installation of 24 box-type transformers, the laying of 8000 meters of power cables, and start the power transmission on time by January 31.
 
 <figure>
   <img src="/assets/media/2020-02-08/huoshenshan-03.webp" alt="electricity"/>
@@ -107,3 +107,8 @@ Wuhan, hold on.
   <img src="/assets/media/2020-02-08/huoshenshan-10.webp" alt="cartoon"/>
 </figure>
 
+---
+
+Background:
+
+[Those Outside of The Statistics: They Died from Common Pneumonia?](/articles/2020/02/02/Those-Outside-Of-The-Statistics) 2020-02-02
