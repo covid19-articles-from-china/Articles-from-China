@@ -5,7 +5,7 @@ publisher: Caijing Magazine
 publisher_url: http://english.caijing.com.cn/
 categories: investigation
 translator: Anonymous, COVID-19 Readings
-image: assets/media/2020-02-02/those-outside-of-statistics-01.jpg
+image: /assets/media/2020-02-02/those-outside-of-statistics-01.jpg
 blurb: "Liu Mei’s family never saw her mother-in-law again after she was taken by an ambulance. All they got was an invoice of cremation, showing her cause of death: viral pneumonia."
 ---
 

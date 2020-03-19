@@ -4,7 +4,7 @@ date: 2020-02-10
 translation_date: 2020-02-28
 categories: [personal experience, joke]
 translator: COVID-19 Readings
-image: assets/media/2020-02-10/epidemic-prevention-00.jpeg
+image: /assets/media/2020-02-10/epidemic-prevention-00.jpeg
 blurb: Company cafeteria. Eating with the feel of taking an exam.
 ---
 

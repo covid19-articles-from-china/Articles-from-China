@@ -6,7 +6,7 @@ publisher_url: https://mp.weixin.qq.com/s/nmt0q-JPdKX8HHiU4Liw5A
 translation_date: 2020-03-03
 categories: general
 translator: Marie Mao (COVID-19 Readings)
-image: assets/media/2020-02-05/ct-scans-02.webp
+image: /assets/media/2020-02-05/ct-scans-02.webp
 blurb: After the COVID-19 test kit shortage eased, real-time polymerase chain reaction (RT-PCR) testing, adopted as the main diagnostic criterion for COVID-19, again drew controversy.
 ---
 
