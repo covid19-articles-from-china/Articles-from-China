@@ -103,6 +103,15 @@ a {
   }
 }
 
+.site-widget {
+  margin-right: 1rem;
+  height: 2.625rem;
+
+  > span{
+    vertical-align: inherit !important;
+  }
+}
+
 @media screen and (max-width: 42em) { 
   .site-title {
     font-size: 1.1rem;
