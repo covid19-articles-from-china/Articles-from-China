@@ -6,26 +6,32 @@
     {% else %}
       <title>{{ site.title }}</title>
     {% endif %}
-    
-    {% if page.image %}
-      <meta property="og:image" content="{{ page.image }}">
-    {% else %}
-      <meta property="og:image" content="/assets/media/covid19readings.png">
-    {% endif %}
 
+    <!-- metadata -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="canonical" href="{{ canonical_url }}" />
 
+    <!-- css -->
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,500;0,700;1,300&display=swap" rel="stylesheet">
 
+    <!-- favicons -->
     <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
     <link rel="manifest" href="/assets/favicon/site.webmanifest">
 
+    <!-- sharing -->
+    <meta property="og:url" content="{{ canonical_url }}" />
+    <meta property="og:type" content="{% if page.title %}article{% else %}website{% endif %}" />
+    <meta property="og:title" content="{{ page.title | default: site.title }}" />
+    <meta property="og:description" content="{{ page.blurb | default: site.description }}" />
+    <meta property="og:image" content="{{ site.url }}{{ page.image | default: '/assets/media/covid19readings.png' }}" />
+
+    <!-- js -->
     {% if site.google_analytics %}
       <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
       <script>
@@ -38,14 +44,27 @@
   </head>
 
   <body>
+    <div id="fb-root"></div>
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          // TODO: Change to COVID Readings appId
+          appId            : '211661538844751',
+          autoLogAppEvents : true,
+          xfbml            : true,
+          version          : 'v6.0'
+        });
+      };
+    </script>
+    <script async defer src="https://connect.facebook.net/en_US/sdk.js"></script>
+
     <header class="site-header" role="banner">
       <img src='/assets/favicon/favicon-main.ico' style="padding:0 4px">
       <h1 class="site-title"><a href="/">{{ site.title }}</a></h1>
 
-      <nav class="site-nav">
-        <!-- https://www.albionresearch.com/misc/obfuscator.php -->
-        <a class="site-link" href="mail&#116;o&#58;&#37;6D&#97;g%6&#55;i&#37;65%6E%&#54;A202%30%4&#48;gma&#105;l&#46;%&#54;3om" target="_blank" alt="contact us">contact</a>
-      </nav>
+      <div class="site-widget fb-like" data-href="https://www.facebook.com/Covid-19-Readings-from-China-113140066981961" data-width="" data-layout="button" data-action="like" data-size="large" data-share="false"></div>
+
+      <div class="site-widget fb-share-button" data-href="{{ canonical_url }}" data-layout="button" data-size="large"></div>
     </header>
 
     <main class="main-content" role="main">
