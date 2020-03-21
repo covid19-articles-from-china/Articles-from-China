@@ -1,5 +1,5 @@
 ---
-title: 'The Wuhan Union Hospital Expert Who Recovered From COVID-19 Said That This Treatment Can Reduce The Severity And Mortality Rate of COVID-19!'
+title: 'The Wuhan Union Hospital Expert Who Recovered From COVID-19 Said That This Treatment Can Reduce The Severity And Mortality of COVID-19!'
 date: 2020-02-14
 publisher: MD Weekly
 publisher_url: https://mp.weixin.qq.com/s/4VSNfRnQUKCy_smB2cmHRQ
@@ -30,7 +30,7 @@ The dual status of doctor and patient gave Zhang Jinnong more perspectives and m
   <figcaption>Zhang Jinnong (first on the right) at work</figcaption>
 </figure>
 
-Zhang Jinnong did not stop working during the illness. He remotely read the scans, discussed cases, participated in consultations. With in-depth front-line clinical experience, a large amount of literature review and contemplation, he drafted the "Wuhan Union Hospital 2019 Novel Coronavirus Infection Treatment Strategies and Instructions”, which is the country's first guidance program for the diagnosis and treatment of COVID-19, affectionately called the "Wuhan Union Program". It provided great reference for the diagnosis and treatment of COVID-19, reducing the severity and mortality rate, improving the cure rate, and the formulation of subsequent national diagnosis and treatment plans. The treatment and triage strategy was published online on February 13 in *The Lancet Respiratory Medicine*.
+Zhang Jinnong did not stop working during the illness. He remotely read the scans, discussed cases, participated in consultations. With in-depth front-line clinical experience, a large amount of literature review and contemplation, he drafted the "Wuhan Union Hospital 2019 Novel Coronavirus Infection Treatment Strategies and Instructions”, which is the country's first guidance program for the diagnosis and treatment of COVID-19, affectionately called the "Wuhan Union Program". It provided great reference for the diagnosis and treatment of COVID-19, reducing the severity and mortality, improving the cure rate, and the formulation of subsequent national diagnosis and treatment plans. The treatment and triage strategy was published online on February 13 in *The Lancet Respiratory Medicine*.
 
 <figure>
   <img src="/assets/media/2020-02-14/union-treatment-02.jpeg" alt="the lancet"/>
@@ -117,3 +117,8 @@ The prevention for patients is mainly to prevent or reduce secondary CAP, to rea
 
 For patients who were cured and discharged, Professor Zhang said that attention should still be paid to home isolation. "Although I was discharged from the hospital, I still needed to isolate at home for 14 days according to requirements." Professor Zhang believes that the so-called "relapse prevention" does not mean that the patient will be re-infected with the virus. Because the body will produce a certain amount of antibodies, it is unlikely to be re-infected by the virus in the short term. But because of the patient's declined immunity, it is necessary to guard against the possibility of re-infection with CAP.
 
+---
+
+Related Resource:
+
+<a href="https://video-intl.alicdn.com/Handbook%20of%20COVID-19%20Prevention%20and%20Treatment%20%28Standard%29.pdf?spm=a3c0i.14138300.8102420620.download.6df3647fCq6Is2&file=Handbook%20of%20COVID-19%20Prevention%20and%20Treatment%20%28Standard%29.pdf" target="_blank">Handbook of COVID-19 Prevention and Treatment</a> (*The First Aliated Hospital, Zhejiang University School of Medicine*)
