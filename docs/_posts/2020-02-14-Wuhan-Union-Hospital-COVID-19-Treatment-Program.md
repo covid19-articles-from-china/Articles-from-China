@@ -107,7 +107,7 @@ Staph. aureus is a very important pathogen in severe pneumonia. All internationa
 
 How to prevent COVID-19 has been the focus of attention. Professor Zhang Jinnong suggested that the "prevention" here should include preventing those who are not infected from infection, prevent infected patients from getting worse, and prevent cured patients from "relapse".
 
-"The country has implemented a series of measures to prevent infection. Our hospitals require wearing a mask from beginning to end and improving air circulation. Our front-line doctors are actually at high risk. The gathering of a large number of patients leads to a high degree of virus shedding, greatly increasing the risk of infection."
+"The country has implemented a series of measures to prevent infection. Our hospitals require wearing a mask from beginning to end and improving air circulation. Our front-line doctors are actually at high risk. The gathering of a large number of patients leads to extremely high viral titre, greatly increasing the risk of infection."
 
 Professor Zhang believes that attention should also be paid to **the issue of fecal-oral transmission**. "Currently, the International Virus Classification Commission proposes to name the novel coronavirus SARS-CoV-2, mainly because it is considered to be very similar to SARS. There had been reports of faecal-oral transmission for SARS previously.
 
