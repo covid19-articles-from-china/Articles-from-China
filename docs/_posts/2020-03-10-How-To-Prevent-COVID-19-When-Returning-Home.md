@@ -17,7 +17,7 @@ blurb: When returning home, try to place your shoes outside the door or in the f
 
 ---
 
-<div class="highlight">The Chinese government and people have achieved a phased victory over COVID-19. The atmosphere of work resumption and production resumption is gradually  growing stronger. Everyone becomes more worried about whether they will accidentally bring the virus home when they return home. Here we remind everyone to take precautions when coming home.</div>
+<div class="highlight">The Chinese government and people have achieved a phased victory over COVID-19. The atmosphere of work resumption and production resumption is gradually  growing stronger. Everyone becomes more worried about whether they will accidentally bring the virus home when they return. Here we remind everyone to take precautions when returning home.</div>
 
 When returning home, try to place your shoes outside the door or in the foyer, keep them separate from the shoes you wear at home. Regularly clean and disinfect the soles and the foyer floor.
 
