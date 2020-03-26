@@ -1,10 +1,5 @@
 # List of Articles to Translate
 
-1. 2020-03-17 [外出归家，如何预防？](https://mp.weixin.qq.com/s/wbIhYJ1pBVsleZbKGEFV1w)
-
-   * Translator:
-   * Reviewer:
-
 1. 2020-03-03 [忽视、欺骗、失职：浙江8人逃离意大利背后](https://mp.weixin.qq.com/s/wRriz4PCVNQuV9gaBz4llQ)
 
    * Translator: Marie
