@@ -42,6 +42,31 @@
 
 1. 2020-01-28 [陷入“肺炎恐慌”怎么办？6个方法，应对疫情带来的不良心理反应](https://mp.weixin.qq.com/s/3wvc_Brls_HffkmR9vP9Mw) KnowYourself
 
-   * Translator: Nancy
+   * Translator:
+   * Reviewer:
+
+1. 2020-01-27 [从目前数据再分析武汉新冠肺炎患者数量和死亡率](http://huangjian.blog.caixin.com/archives/220428)
+
+   * Translator:
+   * Reviewer:
+
+1. 2020-01-25 [如果丧到刷不动消息，请放过自己吧](https://mp.weixin.qq.com/s/b8rBnswLMk1eixRiHBuuaA)
+
+   * Translator:
+   * Reviewer:
+
+1. 2020-01-25 [武汉协和医院医生心声：停止恐慌！！！](https://mp.weixin.qq.com/s/HbYIeoAHRc4VUjK4y0bikw)
+
+   * Translator:
+   * Reviewer:
+
+1. 2020-01-24 [疫情防治的协和解决方案](https://m.weibo.cn/status/4464620389193176?wm=3333_2001&sourcetype=weixin&from=timeline&isappinstalled=0#&gid=1&pid=1)
+
+   * Translator:
+   * Reviewer:
+
+1. 2020-01-23 [专家组副组长感染新冠肺炎竟在家里治愈了，他是这么做到的](https://mp.weixin.qq.com/s/2DSYH9AQSdHyF9rEkh7OSQ)
+
+   * Translator:
    * Reviewer:
 
