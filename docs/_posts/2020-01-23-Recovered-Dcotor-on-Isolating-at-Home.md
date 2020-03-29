@@ -6,7 +6,7 @@ publisher_url: https://mp.weixin.qq.com/s/2DSYH9AQSdHyF9rEkh7OSQ
 categories: how-to
 translator: COVID-19 Readings
 image: /assets/media/2020-01-23/self-cure-01.webp
-blurb: ''
+blurb: 'Professor Zhang Jinnong and ER director Sun Guobing shared their thoughts on home isolation and offered tips on how to self-isolate at home.'
 ---
 
 *<a href="https://mp.weixin.qq.com/s/2DSYH9AQSdHyF9rEkh7OSQ" target="_blank">专家组副组长感染新冠肺炎竟在家里治愈了，他是这么做到的</a>*
