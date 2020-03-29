@@ -119,6 +119,8 @@ For patients who were cured and discharged, Professor Zhang said that attention 
 
 ---
 
-Related Resource:
+Related Articles:
+
+[The Deputy Leader of The Expert Group Got COVID-19 And Was Cured at Home. This Was What He Did](/articles/2020/01/23/Recovered-Dcotor-on-Isolating-at-Home) 2020-01-23
 
 <a href="https://video-intl.alicdn.com/Handbook%20of%20COVID-19%20Prevention%20and%20Treatment%20%28Standard%29.pdf?spm=a3c0i.14138300.8102420620.download.6df3647fCq6Is2&file=Handbook%20of%20COVID-19%20Prevention%20and%20Treatment%20%28Standard%29.pdf" target="_blank">Handbook of COVID-19 Prevention and Treatment</a> (*The First Aliated Hospital, Zhejiang University School of Medicine*)

@@ -168,3 +168,10 @@ Two weeks after the symptoms have completely disappeared, the patient can leave 
 "Eat four eggs a day, steam them into egg custard that is easy to digest and absorb." The four eggs are an important part of the nutrition plan prescribed by Sun Guobing for patients isolating at home. In addition to asking patients to eat a balanced diet, he also asked them to eat more vegetables, fruits, and drink more water.
 
 "Our judgment and handling of the disease are determined rigorously, aiming at treatment and patient safety." Sun Guobing appealed to patients who are anxious about COVID-19, "Please trust us and follow us doctors' advice! Let's fight together!"
+
+---
+
+Related Articles:
+
+[The Wuhan Union Hospital Expert Who Recovered From COVID-19 Said That This Treatment Can Reduce The Severity And Mortality of COVID-19!](/articles/2020/02/14/Wuhan-Union-Hospital-COVID-19-Treatment-Program) 2020-02-14
+
