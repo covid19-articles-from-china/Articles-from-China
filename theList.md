@@ -70,8 +70,3 @@
    * Translator:
    * Reviewer:
 
-1. 2020-01-23 [专家组副组长感染新冠肺炎竟在家里治愈了，他是这么做到的](https://mp.weixin.qq.com/s/2DSYH9AQSdHyF9rEkh7OSQ)
-
-   * Translator:
-   * Reviewer:
-
