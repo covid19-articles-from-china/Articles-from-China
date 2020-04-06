@@ -1,5 +1,10 @@
 # List of Articles to Translate
 
+1. 2020-04-02 [唐驳虎：确诊病例超20万，解读美国医疗体系另一面](https://news.ifeng.com/c/7vLdMzB9ihU)
+
+   * Translator:
+   * Reviewer:
+
 1. 2020-03-03 [忽视、欺骗、失职：浙江8人逃离意大利背后](https://mp.weixin.qq.com/s/wRriz4PCVNQuV9gaBz4llQ)
 
    * Translator: Marie
@@ -46,11 +51,6 @@
    * Reviewer:
 
 1. 2020-01-28 [陷入“肺炎恐慌”怎么办？6个方法，应对疫情带来的不良心理反应](https://mp.weixin.qq.com/s/3wvc_Brls_HffkmR9vP9Mw) KnowYourself
-
-   * Translator:
-   * Reviewer:
-
-1. 2020-01-27 [从目前数据再分析武汉新冠肺炎患者数量和死亡率](http://huangjian.blog.caixin.com/archives/220428)
 
    * Translator:
    * Reviewer:
