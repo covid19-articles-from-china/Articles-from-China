@@ -266,6 +266,8 @@ Sun Chen, who has been waiting for the nucleic acid test strip with her father, 
 
 Related Articles:
 
+[Wuhan Opens up Ash Collection, Relatives of the Deceased Join Long Line at Hankou Funeral Home](/articles/2020/03/26/Wuhan-Ash-Collection-Long-Line) 2020-03-26
+
 [White Manual, Green Manual: Evolution of The COVID-19 Diagnostic Criteria](/articles/2020/02/20/White-Manual-Green-Manual) 2020-02-20
 
 [Fighting COVID-19: CT Scans To Be Included in Diagnostic Criteria](/articles/2020/02/05/Fighting-COVID-19) 2020-02-05
