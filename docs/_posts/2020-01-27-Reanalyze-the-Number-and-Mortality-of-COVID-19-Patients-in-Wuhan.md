@@ -157,3 +157,8 @@ The number of patients in Wuhan is definitely more than expected, but with the s
  
 It's no big deal, we can definitely defeat the virus.
 
+---
+
+Related Articles:
+
+[Those Outside of The Statistics: They Died from Common Pneumonia?](/articles/2020/02/02/Those-Outside-Of-The-Statistics) 2020-02-02
