@@ -129,3 +129,10 @@ Wuhan and Hubei have launched a general offensive. The most critical thing in th
 In the afternoon of February 19, the reporters dialed a number of public numbers, including the Infectious Disease Surveillance Office of Wuhan CDC, and the Wuhan Health Hotline. A staff member of the Health Emergency Management Office of the Wuhan CDC provided the duty room's number to the reporters. The staff member who answered the call told the reporters that according to the current policy, samples will be sent to the CDC and major hospitals for testing. If a hospital reports that the testing volume is overwhelming or that there are too many recent samples, they will be sent to a third-party testing agency for testing. "At present, CDC and hospitals are still the main force." The staff emphasized that there was no intentional withholding of samples from third-party agencies, and everything was done in accordance with policies and regulations. He also added, "I personally didn't hear too much about the problem of insufficient volume from third-party agencies, but I know that the hospitals have a large number of tests and tremendous work load."
 
 National Business Daily reporters also tried to contact a person in charge of the publicity department of the Wuhan Municipal Health and Health Commission, but as of press time, have not received a reply.
+
+
+---
+
+Related Articles:
+
+<a href="https://arstechnica.com/tech-policy/2020/04/how-hospital-it-challenges-are-holding-back-covid-19-testing-efforts/" target="_blank">COVID-19 tests are going unused due to hospital IT challenges</a> 2020-04-10

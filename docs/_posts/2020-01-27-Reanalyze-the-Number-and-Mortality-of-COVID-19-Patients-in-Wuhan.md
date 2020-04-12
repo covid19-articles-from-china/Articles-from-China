@@ -129,7 +129,7 @@ The death rate in Wuhan is still higher than in other parts of the country, but 
 
 In addition, I personally think that 6000 cases may still have underestimated the actual number of patients in Wuhan. Because common sense indicates that people who are still staying in Wuhan should have a higher probability of getting sick than those who have left Wuhan. At the same time, the number of patients in other provinces outside Hubei is still increasing rapidly. It is inevitable that the total number of imported cases from Wuhan in other provinces will reach 1500-2000. If one presumes the case prevalence rate of Wuhanese in other provinces to be one in 1,000, and the prevalence rate for people staying in Wuhan to be higher, I will not be surprised that the actual number of patients in Wuhan exceeds 10,000.
  
-However, there is no need to panic for this. Because this novel coronavirus pneumonia is itself characterized by high infectivity, high number of patients, low pathogenicity, and low mortality. People should not regard the novel coronavirus pneumonia as another SARS, but should be regarded as a super strong flu.
+However, there is no need to panic for this. Because this novel coronavirus pneumonia is itself characterized by high infectivity, high number of patients, low pathogenicity, and low mortality. People should not regard the novel coronavirus pneumonia as another SARS, but should regard it as a super strong flu.
 
 ### IV
 

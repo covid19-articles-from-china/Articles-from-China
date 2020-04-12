@@ -81,6 +81,8 @@ Zhang Xiaochun messaged us on February 5. The newly released Diagnosis and Treat
 
 Related Articles:
 
+[How to View Ali Damo Academy's COVID-19 CT Scan AI Diagnosis Technology, Which Could Recognize It in 20 Seconds with An Accuracy of 96%?](/articles/2020/02/23/How-To-View-Ali-Damo-AI-COVID-19-CT-Technology) 2020-02-23
+
 [White Manual, Green Manual: Evolution of The COVID-19 Diagnostic Criteria](/articles/2020/02/20/White-Manual-Green-Manual) 2020-02-20
 
 [Those Outside of The Statistics: They Died from Common Pneumonia?](/articles/2020/02/02/Those-Outside-Of-The-Statistics) 2020-02-02
