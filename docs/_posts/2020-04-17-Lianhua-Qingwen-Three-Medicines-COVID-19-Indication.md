@@ -129,5 +129,6 @@ COVID-19 is spreading in many countries around the world. These three drugs bein
 
 Related Articles:
 
-<a href="https://chemrxiv.org/articles/Theoretical_Study_of_the_anti-NCP_Molecular_Mechanism_of_Traditional_Chinese_Medicine_Lianhua-Qingwen_Formula_LQF_/12016236/1" target="_blank">Theoretical Study of the anti-NCP Molecular Mechanism of Traditional Chinese Medicine Lianhua-Qingwen Formula (LQF)</a>
+<a href="https://chemrxiv.org/articles/Theoretical_Study_of_the_anti-NCP_Molecular_Mechanism_of_Traditional_Chinese_Medicine_Lianhua-Qingwen_Formula_LQF_/12016236/1" target="_blank">Theoretical Study of the anti-NCP Molecular Mechanism of Traditional Chinese Medicine Lianhua-Qingwen Formula (LQF)</a> 2020-03-23
 
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/26687282" target="_blank">A network analysis of the Chinese medicine Lianhua-Qingwen formula to identify its main effective components</a> 2016-02
