@@ -22,7 +22,7 @@ blurb: The term "three medicines and three prescriptions" originated from a pres
   <img src="/assets/media/2020-04-17/lianhua-qingwen-01.jpg" alt="Lianhua Qingwen"/>
 </figure>
 
-The term "three medicines and three prescriptions" originated from a press conference held by the State Council Information Office on March 23, where "three medicines" refers to Lianhua Qingwen Capsules (Granules), Jinhua Qinggan Granules and Xuebijing Injection (drug components attached at the bottom of the article -- COVID-19 Readings).
+The term "three medicines and three prescriptions" originated from a press conference held by the State Council Information Office on March 23, where "three medicines" refers to Lianhua Qingwen Capsules (Granules), Jinhua Qinggan Granules and Xuebijing Injection (*drug components attached at the bottom of the article -- COVID-19 Readings*).
 
 Recently, these three drugs have become the first batch of drugs to be approved for new indications for COVID-19 in China. The related announcements attracted public attention as soon as they were issued.
 
@@ -36,21 +36,21 @@ An expert in traditional Chinese medicine said in an interview with The Paper (w
 
 **Three Chinese Patent Medicines Approved for Adding Indication for COVID-19**
 
-"Given the important role played by the 'Three Medicines' in this epidemic and the favorable evidence obtained, the State Drug Administration has approved adding the treatment of COVID-19 into the indications of the three medicines." Li Yu, director of the Science and Technology Department of the State Administration of Traditional Chinese Medicine, said so in the press conference on the afternoon of April 14.
+"Given the important role played by the 'Three Medicines' in this epidemic and the favorable evidence obtained, the State Drug Administration has approved to add the treatment of COVID-19 into the indications of the three medicines." Li Yu, director of the Science and Technology Department of the State Administration of Traditional Chinese Medicine, said so in the press conference on the afternoon of April 14.
 
 The relevant approval documents issued by the State Drug Administration respectively state:
 
-Approval of Lianhua Qingwen Capsules (Granules) Instructions [Functional Indications] Item adding "Routine treatment of COVID-19, can be used for fever, cough, and fatigue caused by mild or regular COVID-19"; [Usage and Dosage] Item adding "COVID-19 mild or regular case treatment course 7-10 days."
+Approval of Lianhua Qingwen Capsules (Granules) Instructions [Functional Indications] item to add "Routine treatment of COVID-19, can be used for fever, cough, and fatigue caused by mild or regular COVID-19"; [Usage and Dosage] item to add "COVID-19 mild or regular case treatment course 7-10 days."
 
-Approval of Xuebijing Injection Instructions [Functional Indications] item adding "can be used for COVID-19 severe and critical case systemic inflammatory response syndrome or / and multiple organ failure"; [Usage and Dosage] item adding "for COVID-19: 100ml diluted with 0.9% sodium chloride injection 250ml, twice a day".
+Approval of Xuebijing Injection Instructions [Functional Indications] item to add "can be used for COVID-19 severe and critical case systemic inflammatory response syndrome or / and multiple organ failure"; [Usage and Dosage] item to add "for COVID-19: 100ml diluted with 0.9% sodium chloride injection 250ml, twice a day".
 
-Approval of Jinhua Qinggan Granules [Functional Indications] item adding "in routine treatment of COVID-19, can be used for fever, cough, and fatigue caused by mild or regular COVID-19” in addition to the original approved content; [Usage and Dosage] adding "COVID-19 mild or regular case: 1 to 2 bags at a time, 3 times a day. The course of treatment is 5 to 7 days" in addition to the original approved content.
+Approval of Jinhua Qinggan Granules [Functional Indications] item to add "in routine treatment of COVID-19, can be used for fever, cough, and fatigue caused by mild or regular COVID-19” in addition to the original approved content; [Usage and Dosage] to add "COVID-19 mild or regular case: 1 to 2 bags at a time, 3 times a day. The course of treatment is 5 to 7 days" in addition to the original approved content.
 
 The Paper looked into the instructions for the three Chinese patent medicines and noted that their functions all include "clearing heat and removing toxins", which is suitable for fever symptoms. Among them, Lianhua Qingwen Capsules also treats "chills, muscle soreness, nasal congestion, runny nose, cough" etc.; Xuebijing Injection also treats wheezing, heart palpitations, infection-induced systemic inflammation etc.; the functions of Jinhua Qinggan Granules also include treating "red and sore throat, nasal congestion, runny nose, thirst" etc..
 
-Information from the State Drug Administration shows that Lianhua Qingwen Capsules, Granules and Tablets are exclusive patent products from Shijiazhuang Yiling Pharmaceutical Co., Ltd. (hereinafter referred to as: Yiling Pharmaceutical) and its wholly-owned subsidiary Beijing Yiling Pharmaceutical Co., Ltd.; Xuebijing injection is produced by Tianjin Chase Sun Pharmaceutical Co., Ltd. (hereinafter: Chase Sun Pharmaceutical); Jinhua Qinggan Granule is an exclusive product from Juxiechang (Beijing) Pharmaceutical, a subsidiary of Beijing Yushengtang Sinopharm Holding Co., Ltd.
+Information from the State Drug Administration shows that Lianhua Qingwen Capsules, Granules and Tablets are exclusive patent products from Shijiazhuang Yiling Pharmaceutical Co., Ltd. (hereinafter referred to as: Yiling Pharmaceutical) and its wholly-owned subsidiary Beijing Yiling Pharmaceutical Co., Ltd.; Xuebijing injection is produced by Tianjin Chase Sun Pharmaceutical Co., Ltd. (hereinafter: Chase Sun Pharmaceutical); Jinhua Qinggan Granules is an exclusive product from Juxiechang (Beijing) Pharmaceutical, a subsidiary of Beijing Yushengtang Sinopharm Holding Co., Ltd.
 
-The Paper noted that since news of the approval was announced, as of April 17, Yiling Pharmaceuticals and Hongri Pharmaceuticals, as publicly listed companies, had reached the top daily trading limit for three consecutive days.
+The Paper noted that since news of the approval was announced, as of April 17, Yiling Pharmaceutical and Chase Sun Pharmaceutical, as publicly listed companies, had reached the maximum daily trading limit for three consecutive days.
 
 **Lianhua Qingwen "Born for SARS"**
 
@@ -58,7 +58,7 @@ Lianhua Qingwen was developed for the treatment of SARS.
 
 A department head of Yiling Pharmaceutical told The Paper on April 15 that when the SARS epidemic broke out in 2003, Wu Yiling, an academician of the Chinese Academy of Engineering and founder of Yiling Pharmaceutical, started research and development of new drugs for the corresponding symptoms.
 
-According to the department head, Lianhua Qingwen Capsules and Granules combined the prescriptions from three dynasties, Zhang Zhongjing's "Maxing Shigan Soup" from the Han Dynasty, Wu Youke's "Rhubarb" for epidemic diseases from the Ming Dynasty, Wu Jutong's "Yinqiao San" from the Qing Dynasty. It is developed by combining traditional Chinese medicines found to be effectively antiviral, anti-inflammatory, cough suppressing, phlegm loosening and immunity enhancing by modern scientific research. Related experiments confirmed that Lianhua Qingwen Capsule has an inhibitory effect on the SARS virus. Soon afterwards, Lianhua Qingwen Capsules entered the green channel for the rapid approval of new anti-SARS drugs.
+According to the department head, Lianhua Qingwen Capsules and Granules combined the prescriptions from three ancient dynasties, Zhang Zhongjing's "Maxing Shigan Soup" from the Han Dynasty, Wu Youke's "Rhubarb" for epidemic diseases from the Ming Dynasty, Wu Jutong's "Yinqiao San" from the Qing Dynasty. It is developed by combining traditional Chinese medicines found to be effectively antiviral, anti-inflammatory, cough suppressing, phlegm loosening and immunity enhancing by modern scientific research. Related experiments confirmed that Lianhua Qingwen Capsules has an inhibitory effect on the SARS virus. Soon afterwards, Lianhua Qingwen Capsules entered the green channel for the rapid approval of new anti-SARS drugs.
 
 After the SARS epidemic ended, Lianhua Qingwen turned to the battle against influenza.
 
@@ -100,7 +100,7 @@ Liu Baoyan, former executive vice president of the Chinese Academy of Chinese Me
 
 Liu Baoyan explained that the three drugs with newly added COVID-19 indications are all medicinally bitter and cold, suitable for "clearing heat and removing toxins". Among them, Jinhua Qinggan Granules can treat patients with fever faster than other drugs, mainly suitable for early and mild patients; Lianhua Qingwen can also treat cough and relieve lung inflammation; Xuebijing Injection can also protect the patient's organs from damage and can be used for severe and critically ill patients.
 
-"All medicines are 30% poison. Each medicine has its own indications. This is especially true of traditional Chinese medicine. Different people may have different reactions to the same medicine." Liu Baoyan said that although all three medicines can treat COVID-19, they should be applied according to the specific symptoms as much as possible.
+"'All medicines are 30% poison'. Each medicine has its own indications. This is especially true of traditional Chinese medicine. Different people may have different reactions to the same medicine." Liu Baoyan said that although all three medicines can treat COVID-19, they should be applied according to the specific symptoms as much as possible.
 
 In previous interviews, The Paper reporters had learned that some residents, despite not having contracted COVID-19, thought that drugs such as Lianhua Qingwen could prevent infection, bought and took them on their own.
 
@@ -115,15 +115,15 @@ COVID-19 is spreading in many countries around the world. These three drugs bein
 
 **Lianhua Qingwen Capsules components:**
 
-Forsythia, honeysuckle, Ephedra, Fried bitter almonds, Gypsum, Banlangen, Mianma Guanzhong, Houttuynia cordata, Patchouli, Rhubarb, Rhodiola, Menthol, Licorice (连翘、金银花、炙麻黄、炒苦杏仁、石膏、板蓝根、绵马贯众、鱼腥草、广藿香、大黄、红景天、薄荷脑、甘草)
+连翘 Forsythia suspensa, 金银花 Lonicera japonica Thunb., 炙麻黄 Ephedra sinica Stapf, 炒苦杏仁 Fried bitter almonds, 石膏 Gypsum, 板蓝根 Isatis indigotica L. root, 绵马贯众 Dryopteris crassirhizoma Nakai, 鱼腥草 Houttuynia cordata, 广藿香 Patchouli, 大黄 Rhubarb, 红景天 Rhodiola rosea, 薄荷脑 Menthol, 甘草 Glycyrrhiza uralensis
 
 **Jinhua Qinggan Granules components:**
 
-Honeysuckle, Fritillaria thunbergii, Scutellaria baicalensis, Burdock, Artemisia annua, etc. (金银花、浙贝母、黄芩、牛蒡子、青蒿等)
+金银花 Lonicera japonica Thunb., 浙贝母 Fritillaria thunbergii, 黄芩 Scutellaria baicalensis, 牛蒡子 Arctium lappa L., 青蒿 Artemisia annua, etc.
 
 **Xuebijing Injection components:**
 
-Safflower, Red Peony, Chuanxiong, Salvia miltiorrhiza, Angelica (红花、赤芍、川芎、丹参、当归)
+红花 Carthamus tinctorius L., 赤芍 Paeonia veitchii Lynch, 川芎 Ligusticum chuanxiong Hort, 丹参 Salvia miltiorrhiza, 当归 Angelica sinensis
 
 ---
 
